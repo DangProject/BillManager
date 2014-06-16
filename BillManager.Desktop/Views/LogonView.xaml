@@ -1,0 +1,75 @@
+﻿<UserControl x:Class="BillManager.Desktop.Views.LogonView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:tel="http://schemas.telerik.com/2008/xaml/presentation"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"              
+             Background="{StaticResource DarkSlateBlue}" IsTabStop="False" FocusVisualStyle="{x:Null}"
+             mc:Ignorable="d" Height="150" Width="375" >
+    
+    <StackPanel TextElement.Foreground="Gray"               
+                TextElement.FontWeight="Medium"
+                FocusVisualStyle="{x:Null}"
+                VerticalAlignment="Center"
+                HorizontalAlignment="Center"
+                Width="300" >
+        <tel:RadWatermarkTextBox WatermarkContent="User name" 
+                                 TabIndex="0" x:Name="userNameBox"
+                                 Text="{Binding UserName, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                                 IsTabStop="True" Margin="3">
+            <tel:RadWatermarkTextBox.InputBindings>
+                <KeyBinding Key="Enter" Command="{Binding LogonCommand}" />
+            </tel:RadWatermarkTextBox.InputBindings>
+        </tel:RadWatermarkTextBox>
+        <tel:RadWatermarkTextBox WatermarkContent="Password" TabIndex="1"
+                                 Text="{Binding Password, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                                 IsTabStop="True" Margin="3">
+            <tel:RadWatermarkTextBox.InputBindings>
+                <KeyBinding Key="Enter" Command="{Binding LogonCommand}" />
+            </tel:RadWatermarkTextBox.InputBindings>
+        </tel:RadWatermarkTextBox>
+            <!--<PasswordBox x:Name="PasswordBox" Margin="4" Visibility="Hidden" 
+                            Focusable="True" IsTabStop="True"
+                            LostFocus="PasswordBox_LostFocus"
+                            VerticalContentAlignment="Center" />-->
+            <!--FocusableChanged="PasswordBox_FocusableChanged"
+                            LostKeyboardFocus="PasswordBox_LostKeyboardFocus"
+                            IsKeyboardFocusedChanged="PasswordBox_IsKeyboardFocusedChanged"
+                            IsKeyboardFocusWithinChanged="PasswordBox_IsKeyboardFocusWithinChanged"
+                            IsHitTestVisibleChanged="PasswordBox_IsHitTestVisibleChanged"
+                            IsMouseCapturedChanged="PasswordBox_IsMouseCapturedChanged"
+                            IsMouseCaptureWithinChanged="PasswordBox_IsMouseCaptureWithinChanged"
+                            LostMouseCapture="PasswordBox_LostMouseCapture"
+                            MouseLeave="PasswordBox_MouseLeave"-->
+        <Button Content="Sign in"
+                IsTabStop="True"
+                TabIndex="2"
+                Command="{Binding LogonCommand}"                
+                Padding="15,2,15,2"
+                Margin="3"/>
+        <!--<Grid Margin="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="2*" />
+            </Grid.ColumnDefinitions>
+            <TextBlock Text="User name:"
+                        Margin="0,0,10,0"
+                        HorizontalAlignment="Right" />
+            <TextBox Grid.Column="1" Text="{Binding UserName, Mode=TwoWay}" />
+        </Grid>
+        <Grid Margin="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="2*" />
+            </Grid.ColumnDefinitions>
+            <TextBlock Text="Password:"
+                        Margin="0,0,10,0"
+                        HorizontalAlignment="Right" />
+            <TextBox Grid.Column="1" Text="{Binding Password, Mode=TwoWay}" />
+        </Grid>        
+        <Button Content="Log on"
+                Command="{Binding LogonCommand}"
+                HorizontalAlignment="Right"
+                Padding="15,2,15,2"/>-->
+    </StackPanel>    
+</UserControl>

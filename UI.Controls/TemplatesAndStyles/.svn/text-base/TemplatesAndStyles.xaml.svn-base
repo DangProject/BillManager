@@ -1,0 +1,12 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    
+    <ResourceDictionary.MergedDictionaries>
+        <ResourceDictionary Source="/UI.Controls;component/TemplatesAndStyles/HyperlinkButtonStyle.xaml" />
+        <ResourceDictionary Source="/UI.Controls;component/TemplatesAndStyles/MaxRestoreStyle.xaml" />
+        <ResourceDictionary Source="/UI.Controls;component/TemplatesAndStyles/MetroButtonStyle.xaml" />
+        <ResourceDictionary Source="/UI.Controls;component/TemplatesAndStyles/MetroCheckBoxStyle.xaml" />
+        <ResourceDictionary Source="/UI.Controls;component/TemplatesAndStyles/MetroComboBoxStyle.xaml" />
+        <ResourceDictionary Source="/UI.Controls;component/TemplatesAndStyles/MetroScrollBarStyle.xaml" />        
+    </ResourceDictionary.MergedDictionaries>    
+</ResourceDictionary>

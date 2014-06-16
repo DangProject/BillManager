@@ -1,0 +1,14 @@
+﻿<MahApps:MetroWindow x:Class="BillManager.Desktop.Views.ViewContainerWindow"        
+                     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"        
+                     xmlns:MahApps="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro" 
+                     xmlns:rgn="clr-namespace:Microsoft.Practices.Prism.Regions;assembly=Microsoft.Practices.Prism"
+                     xmlns:local="clr-namespace:BillManager.Desktop"
+                     xmlns:con="clr-namespace:UI.Controls;assembly=UI.Controls"
+                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"                      
+                     Animate="False" Background="{StaticResource DarkSlateBlue}" TitleCaps="False">
+    
+    <Grid Margin="10">
+        <con:TransitioningContentControl Transition="RightTransition" rgn:RegionManager.RegionName="{x:Static local:RegionNames.ViewContainerRegion}" />
+        <!--<ContentControl rgn:RegionManager.RegionName="{x:Static local:RegionNames.ViewContainerRegion}" />-->
+    </Grid>
+</MahApps:MetroWindow>

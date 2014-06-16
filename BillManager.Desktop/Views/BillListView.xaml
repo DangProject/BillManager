@@ -1,0 +1,591 @@
+﻿<UserControl x:Class="BillManager.Desktop.Views.BillListView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:tel="http://schemas.telerik.com/2008/xaml/presentation"
+             xmlns:con="clr-namespace:UI.Controls;assembly=UI.Controls"
+             xmlns:cor="clr-namespace:Core.UI;assembly=Core"
+             xmlns:local="clr-namespace:BillManager.Desktop"             
+             xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" d:DesignHeight="500" d:DesignWidth="300">
+
+    <UserControl.Resources>
+        <local:BillListTemplateSelector x:Key="BillListTemplateSelector">
+            <local:BillListTemplateSelector.LateTemplate>                
+                <DataTemplate>                    
+                    <Grid TextElement.Foreground="Crimson" Background="Transparent">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="Auto" />
+                            <ColumnDefinition Width="Auto" />
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="*" />
+                        </Grid.RowDefinitions>
+                        <TextBlock FontSize="20" Margin="10,0,0,0"
+                                   Foreground="LightGray"
+                                   TextTrimming="CharacterEllipsis"                                   
+                                   VerticalAlignment="Center"
+                                   Text="{Binding Path=Name}" />
+                        <TextBlock Grid.Row="1" FontSize="9" Margin="10,0,0,0"
+                                   TextTrimming="CharacterEllipsis"                                   
+                                   VerticalAlignment="Center">
+                            <Run Text="Due on" />
+                            <Run Text="{Binding Path=DueDate, StringFormat='ddd M/d'}" />
+                        </TextBlock>
+                        <Button x:Name="payButton" Grid.Column="1" Grid.RowSpan="2" Margin="2"                                
+                                Command="{Binding RelativeSource={RelativeSource AncestorType={x:Type UserControl}}, 
+                                                                  Path=DataContext.PayNowCommand}"
+                                CommandParameter="{Binding}"
+                                ToolTip="Pay now" Visibility="Collapsed"
+                                Template="{StaticResource PayButtonTemplate}"
+                                Background="Transparent"
+                                VerticalAlignment="Center"
+                                Height="25" Width="45" />
+                        <TextBlock Grid.Column="2" Grid.RowSpan="2"
+                                   FontSize="20" Margin="0,0,10,0"
+                                   TextTrimming="CharacterEllipsis"
+                                   VerticalAlignment="Center"
+                                   Text="{Binding Path=DaysLeft}" />
+                    </Grid>
+                    <DataTemplate.Triggers>                        
+                        <Trigger Property="IsMouseOver" Value="true">                            
+                            <Setter TargetName="payButton" Property="Visibility" 
+                                    Value="{Binding Path=PayOptions, Converter={cor:CountToVisibilityConverter}}" />
+                        </Trigger>
+                        <Trigger Property="IsMouseOver" Value="false">
+                            <Setter TargetName="payButton" Property="Visibility" Value="Collapsed" />
+                        </Trigger>
+                    </DataTemplate.Triggers>
+                </DataTemplate>
+            </local:BillListTemplateSelector.LateTemplate>
+            <local:BillListTemplateSelector.NotPaidTemplate>
+                <DataTemplate>
+                    <Grid TextElement.Foreground="White" Background="Transparent">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="Auto" />
+                            <ColumnDefinition Width="Auto" />
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="*" />
+                        </Grid.RowDefinitions>
+                        <TextBlock FontSize="20" Margin="10,0,0,0"
+                                   TextTrimming="CharacterEllipsis"
+                                   VerticalAlignment="Center"
+                                   Text="{Binding Path=Name}" />
+                        <TextBlock Grid.Row="1" FontSize="9" Margin="10,0,0,0"
+                                   TextTrimming="CharacterEllipsis"
+                                   Foreground="WhiteSmoke"
+                                   VerticalAlignment="Center">
+                            <Run Text="Due on" />
+                            <Run Text="{Binding Path=DueDate, StringFormat='ddd M/d'}" />
+                        </TextBlock>
+                        <Button x:Name="payButton" Grid.Column="1" Grid.RowSpan="2" Margin="2"
+                                Command="{Binding RelativeSource={RelativeSource AncestorType={x:Type UserControl}}, 
+                                                                  Path=DataContext.PayNowCommand}"
+                                CommandParameter="{Binding}"
+                                ToolTip="Pay now" Visibility="Collapsed"
+                                Template="{StaticResource PayButtonTemplate}"
+                                Background="Transparent"
+                                VerticalAlignment="Center"
+                                Height="25" Width="45" />
+                        <TextBlock Grid.Column="2" Grid.RowSpan="2"
+                                   FontSize="20" Margin="0,0,10,0"
+                                   Foreground="Orange" TextTrimming="CharacterEllipsis"
+                                   VerticalAlignment="Center"
+                                   Text="{Binding Path=DaysLeft}" />
+                    </Grid>
+                    <DataTemplate.Triggers>
+                        <Trigger Property="IsMouseOver" Value="true">
+                            <Setter TargetName="payButton" Property="Visibility" 
+                                    Value="{Binding Path=PayOptions, Converter={cor:CountToVisibilityConverter}}" />
+                        </Trigger>
+                        <Trigger Property="IsMouseOver" Value="false">
+                            <Setter TargetName="payButton" Property="Visibility" Value="Collapsed" />
+                        </Trigger>
+                    </DataTemplate.Triggers>
+                </DataTemplate>
+            </local:BillListTemplateSelector.NotPaidTemplate>            
+            <local:BillListTemplateSelector.PaidTemplate>
+                <DataTemplate>
+                    <Grid TextElement.Foreground="LightGray" Background="Transparent"
+                          Margin="10,0,0,0">                        
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="Auto" />
+                            <ColumnDefinition Width="Auto" />
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="*" />
+                        </Grid.RowDefinitions> <!--Grid.ColumnSpan="2"-->
+                        <TextBlock FontSize="20" TextTrimming="CharacterEllipsis"                                   
+                                   VerticalAlignment="Center"
+                                   Text="{Binding Path=Name}" />
+                        <!--<TextBlock Grid.Row="1" FontSize="9"                                   
+                                       TextTrimming="CharacterEllipsis"
+                                       VerticalAlignment="Center">
+                                <Run Text="Due" />
+                                <Run Text="{Binding Path=DueDate, StringFormat=d}" />
+                        </TextBlock>-->
+                        <TextBlock Grid.Column="1" Grid.ColumnSpan="2"
+                                       Margin="0,0,3,0"
+                                       Text="PAID" FontSize="16"
+                                       VerticalAlignment="Bottom"
+                                       HorizontalAlignment="Center" />
+                        <TextBlock Grid.Column="1" Grid.ColumnSpan="2" Grid.Row="1"
+                                       Margin="0,0,3,0"
+                                       Text="{Binding PaidDate, StringFormat='M/d'}"
+                                       VerticalAlignment="Top"
+                                       HorizontalAlignment="Center" />
+                    </Grid>                    
+                </DataTemplate>
+            </local:BillListTemplateSelector.PaidTemplate>
+            <local:BillListTemplateSelector.NoBillThisMonthTemplate>
+                <DataTemplate>
+                    <Grid TextElement.Foreground="LightGray" Background="Transparent">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="Auto" />
+                            <ColumnDefinition Width="Auto" />
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="*" />
+                        </Grid.RowDefinitions>
+                        <TextBlock FontSize="20" Margin="10,0,0,0"
+                                   TextTrimming="CharacterEllipsis"
+                                   VerticalAlignment="Center"
+                                   Text="{Binding Path=Name}" />
+                        <TextBlock Grid.Row="1" FontSize="9" Margin="10,0,0,0"
+                                   TextTrimming="CharacterEllipsis"                                   
+                                   VerticalAlignment="Center">
+                            <Run Text="Next bill due" />
+                            <Run Text="{Binding Path=DueDate, StringFormat='M/d'}" />
+                        </TextBlock>
+                        <TextBlock Grid.Column="1" Grid.ColumnSpan="2"
+                                   Margin="0,0,3,0" FontSize="16"
+                                   Text="No bill"
+                                   VerticalAlignment="Bottom"
+                                   HorizontalAlignment="Center" />
+                        <TextBlock Grid.Column="1" Grid.ColumnSpan="2" Grid.Row="1"
+                                   Margin="0,0,3,0"
+                                   Text="this month"
+                                   VerticalAlignment="Top"
+                                   HorizontalAlignment="Center" />                                               
+                    </Grid>                    
+                </DataTemplate>
+            </local:BillListTemplateSelector.NoBillThisMonthTemplate>
+            <local:BillListTemplateSelector.CantStartTemplate>
+                <DataTemplate>
+                    <Grid TextElement.Foreground="White" Background="Transparent" ShowGridLines="False"
+                          Margin="10,0,0,0">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="Auto" />
+                            <ColumnDefinition Width="Auto" />
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="*" />
+                        </Grid.RowDefinitions>
+                        <TextBlock FontSize="20" TextTrimming="CharacterEllipsis"
+                                   VerticalAlignment="Center"
+                                   Text="{Binding Path=Name}" />
+                        <TextBlock Grid.Row="1" FontSize="9"
+                                   Foreground="WhiteSmoke"
+                                   VerticalAlignment="Center">
+                            <Run Text="First bill due" />
+                            <Run Text="{Binding Path=DueDate, StringFormat='M/d'}" />
+                        </TextBlock>
+                        <TextBlock Grid.Column="2"
+                                   Margin="0,0,3,0"
+                                   VerticalAlignment="Bottom"
+                                   HorizontalAlignment="Center"
+                                   Text="Bill starts in" />
+                        <TextBlock Grid.Column="2" Grid.Row="1"
+                                   Margin="0,0,3,0"
+                                   VerticalAlignment="Top"
+                                   HorizontalAlignment="Center"
+                                   Text="{Binding CommenceDate, StringFormat='MMMM'}" />
+                    </Grid>
+                </DataTemplate>
+            </local:BillListTemplateSelector.CantStartTemplate>
+        </local:BillListTemplateSelector>
+        
+        <local:BillListStyleSelector x:Key="BillListStyleSelector">
+            <local:BillListStyleSelector.LateStyle>
+                <Style TargetType="ListBoxItem">
+                    <Setter Property="FocusVisualStyle" Value="{x:Null}" />
+                    <Setter Property="Height" Value="50" />
+                    <Setter Property="Template">
+                        <Setter.Value>
+                            <ControlTemplate TargetType="{x:Type ListBoxItem}">
+                                <ControlTemplate.Resources>
+                                    <Storyboard x:Key="Storyboard1">
+                                        <DoubleAnimation BeginTime="00:00:00" Duration="00:00:00.500" Storyboard.TargetName="contentGrid"
+                                                         Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" From="-50" To="0">
+                                            <DoubleAnimation.EasingFunction>
+                                                <CubicEase EasingMode="EaseOut"/>
+                                            </DoubleAnimation.EasingFunction>
+                                        </DoubleAnimation>
+                                    </Storyboard>
+                                </ControlTemplate.Resources>
+                                <Grid x:Name="contentGrid" Margin="0,0,0,2" RenderTransformOrigin="0.5,0.5">
+                                    <Grid.RenderTransform>
+                                        <TransformGroup>
+                                            <ScaleTransform/>
+                                            <SkewTransform/>
+                                            <RotateTransform/>
+                                            <TranslateTransform/>
+                                        </TransformGroup>
+                                    </Grid.RenderTransform>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="10" />
+                                        <ColumnDefinition Width="*" />
+                                    </Grid.ColumnDefinitions>
+                                    <Border Background="Crimson" />
+                                    <Border Grid.Column="1"
+                                            x:Name="Bd"
+                                            Background="{TemplateBinding Background}"
+                                            BorderBrush="{TemplateBinding BorderBrush}"
+                                            BorderThickness="{TemplateBinding BorderThickness}"
+                                            Padding="{TemplateBinding Padding}"
+                                            SnapsToDevicePixels="true">
+                                        <ContentPresenter HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}"
+                                                          VerticalAlignment="{TemplateBinding VerticalContentAlignment}"
+                                                          SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" />
+                                    </Border>
+                                </Grid>
+                                <ControlTemplate.Triggers>
+                                    <DataTrigger Binding="{Binding AnimateTransition}" Value="True">
+                                        <DataTrigger.EnterActions>
+                                            <BeginStoryboard Storyboard="{StaticResource Storyboard1}"/>
+                                        </DataTrigger.EnterActions>
+                                    </DataTrigger>
+                                    <Trigger Property="IsMouseOver" Value="true">                                        
+                                        <Setter TargetName="Bd" Property="Background" Value="{DynamicResource ItemBackgroundSelected}"/>
+                                        <Setter Property="Foreground" Value="White" />
+                                    </Trigger>
+                                    <Trigger Property="IsMouseOver" Value="false">
+                                        <Setter TargetName="Bd" Property="Background" Value="SlateBlue"/>
+                                    </Trigger>
+                                    <Trigger Property="IsSelected" Value="true">
+                                        <Setter TargetName="Bd" Property="Background" Value="Blue"/>
+                                        <Setter Property="Foreground" Value="{DynamicResource ItemTextSelected}"/>
+                                        <Setter Property="FontWeight" Value="Normal" />
+                                    </Trigger>
+                                    <Trigger Property="IsEnabled" Value="false">
+                                        <Setter Property="Foreground" Value="{DynamicResource ItemTextDisabled}"/>
+                                    </Trigger>
+                                </ControlTemplate.Triggers>
+                            </ControlTemplate>
+                        </Setter.Value>
+                    </Setter>
+                </Style>
+            </local:BillListStyleSelector.LateStyle>
+            <local:BillListStyleSelector.NotPaidStyle>
+                <Style TargetType="ListBoxItem">
+                    <Setter Property="FocusVisualStyle" Value="{x:Null}" />
+                    <Setter Property="Height" Value="50" />
+                    <Setter Property="Template">
+                        <Setter.Value>
+                            <ControlTemplate TargetType="{x:Type ListBoxItem}">
+                                <ControlTemplate.Resources>
+                                    <Storyboard x:Key="Storyboard1">
+                                        <DoubleAnimation BeginTime="00:00:00" Duration="00:00:00.500" Storyboard.TargetName="contentGrid"
+                                                         Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" From="-50" To="0">
+                                            <DoubleAnimation.EasingFunction>
+                                                <CubicEase EasingMode="EaseOut"/>
+                                            </DoubleAnimation.EasingFunction>
+                                        </DoubleAnimation>
+                                    </Storyboard>
+                                </ControlTemplate.Resources>
+                                <Grid x:Name="contentGrid" Margin="0,0,0,2" RenderTransformOrigin="0.5,0.5">
+                                    <Grid.RenderTransform>
+                                        <TransformGroup>
+                                            <ScaleTransform/>
+                                            <SkewTransform/>
+                                            <RotateTransform/>
+                                            <TranslateTransform/>
+                                        </TransformGroup>
+                                    </Grid.RenderTransform>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="10" />
+                                        <ColumnDefinition Width="*" />
+                                    </Grid.ColumnDefinitions>
+                                    <Border Background="Orange" />
+                                    <Border Grid.Column="1"
+                                            x:Name="Bd"
+                                            Background="{TemplateBinding Background}"
+                                            BorderBrush="{TemplateBinding BorderBrush}"
+                                            BorderThickness="{TemplateBinding BorderThickness}"
+                                            Padding="{TemplateBinding Padding}"
+                                            SnapsToDevicePixels="true">
+                                        <ContentPresenter HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}"
+                                                          VerticalAlignment="{TemplateBinding VerticalContentAlignment}"
+                                                          SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" />
+                                    </Border>
+                                </Grid>
+                                <ControlTemplate.Triggers>
+                                    <DataTrigger Binding="{Binding AnimateTransition}" Value="True">
+                                        <DataTrigger.EnterActions>
+                                            <BeginStoryboard Storyboard="{StaticResource Storyboard1}"/>
+                                        </DataTrigger.EnterActions>
+                                    </DataTrigger>
+                                    <Trigger Property="IsMouseOver" Value="true">
+                                        <Setter TargetName="Bd" Property="Background" Value="{DynamicResource ItemBackgroundSelected}"/>
+                                        <Setter Property="Foreground" Value="White" />
+                                    </Trigger>
+                                    <Trigger Property="IsMouseOver" Value="false">
+                                        <Setter TargetName="Bd" Property="Background" Value="SlateBlue"/>
+                                    </Trigger>
+                                    <Trigger Property="IsSelected" Value="true">
+                                        <Setter TargetName="Bd" Property="Background" Value="Blue"/>
+                                        <Setter Property="Foreground" Value="{DynamicResource ItemTextSelected}"/>
+                                        <Setter Property="FontWeight" Value="Normal" />
+                                    </Trigger>
+                                    <Trigger Property="IsEnabled" Value="false">
+                                        <Setter Property="Foreground" Value="{DynamicResource ItemTextDisabled}"/>
+                                    </Trigger>
+                                </ControlTemplate.Triggers>
+                            </ControlTemplate>
+                        </Setter.Value>
+                    </Setter>
+                </Style>
+            </local:BillListStyleSelector.NotPaidStyle>            
+            <local:BillListStyleSelector.PaidStyle>
+                <Style TargetType="ListBoxItem">
+                    <Setter Property="FocusVisualStyle" Value="{x:Null}" />
+                    <Setter Property="Height" Value="50" />
+                    <Setter Property="Template">
+                        <Setter.Value>
+                            <ControlTemplate TargetType="{x:Type ListBoxItem}">
+                                <ControlTemplate.Resources>
+                                    <Storyboard x:Key="Storyboard1">
+                                        <DoubleAnimation BeginTime="00:00:00" Duration="00:00:00.500" Storyboard.TargetName="contentGrid"
+                                                         Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" From="-50" To="0">
+                                            <DoubleAnimation.EasingFunction>
+                                                <CubicEase EasingMode="EaseOut"/>
+                                            </DoubleAnimation.EasingFunction>
+                                        </DoubleAnimation>
+                                    </Storyboard>
+                                </ControlTemplate.Resources>                                
+                                <Grid x:Name="contentGrid" Margin="0,0,0,2" RenderTransformOrigin="0.5,0.5">
+                                    <Grid.RenderTransform>
+                                        <TransformGroup>
+                                            <ScaleTransform/>
+                                            <SkewTransform/>
+                                            <RotateTransform/>
+                                            <TranslateTransform/>
+                                        </TransformGroup>
+                                    </Grid.RenderTransform>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="10" />
+                                        <ColumnDefinition Width="*" />
+                                    </Grid.ColumnDefinitions>
+                                    <Border Background="LightGray" />
+                                    <Border Grid.Column="1"
+                                            x:Name="Bd"
+                                            Background="{TemplateBinding Background}"
+                                            BorderBrush="{TemplateBinding BorderBrush}"
+                                            BorderThickness="{TemplateBinding BorderThickness}"
+                                            Padding="{TemplateBinding Padding}"
+                                            SnapsToDevicePixels="true">
+                                        <ContentPresenter HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}"
+                                              VerticalAlignment="{TemplateBinding VerticalContentAlignment}"
+                                              SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}"/>
+                                    </Border>
+                                </Grid>
+                                <ControlTemplate.Triggers>
+                                    <DataTrigger Binding="{Binding AnimateTransition}" Value="True">
+                                        <DataTrigger.EnterActions>
+                                            <BeginStoryboard Storyboard="{StaticResource Storyboard1}"/>
+                                        </DataTrigger.EnterActions>
+                                    </DataTrigger>
+                                    <Trigger Property="IsMouseOver" Value="true">
+                                        <Setter TargetName="Bd" Property="Background" Value="{DynamicResource ItemBackgroundSelected}"/>
+                                        <Setter Property="Foreground" Value="White" />
+                                    </Trigger>
+                                    <Trigger Property="IsMouseOver" Value="false">
+                                        <Setter TargetName="Bd" Property="Background" Value="SlateBlue"/>
+                                    </Trigger>
+                                    <Trigger Property="IsSelected" Value="true">
+                                        <Setter TargetName="Bd" Property="Background" Value="Blue"/>
+                                        <Setter Property="Foreground" Value="{DynamicResource ItemTextSelected}"/>
+                                        <Setter Property="FontWeight" Value="Normal" />
+                                    </Trigger>
+                                    <Trigger Property="IsEnabled" Value="false">
+                                        <Setter Property="Foreground" Value="{DynamicResource ItemTextDisabled}"/>
+                                    </Trigger>
+                                </ControlTemplate.Triggers>
+                            </ControlTemplate>
+                        </Setter.Value>
+                    </Setter>
+                </Style>
+            </local:BillListStyleSelector.PaidStyle>
+            <local:BillListStyleSelector.NoBillThisMonthStyle>
+                <Style TargetType="ListBoxItem">
+                    <Setter Property="FocusVisualStyle" Value="{x:Null}" />
+                    <Setter Property="Height" Value="50" />
+                    <Setter Property="Template">
+                        <Setter.Value>
+                            <ControlTemplate TargetType="{x:Type ListBoxItem}">
+                                <ControlTemplate.Resources>
+                                    <Storyboard x:Key="Storyboard1">
+                                        <DoubleAnimation BeginTime="00:00:00" Duration="00:00:00.500" Storyboard.TargetName="contentGrid"
+                                                         Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" From="-50" To="0">
+                                            <DoubleAnimation.EasingFunction>
+                                                <CubicEase EasingMode="EaseOut"/>
+                                            </DoubleAnimation.EasingFunction>
+                                        </DoubleAnimation>
+                                    </Storyboard>
+                                </ControlTemplate.Resources>
+                                <Grid x:Name="contentGrid" Margin="0,0,0,2" RenderTransformOrigin="0.5,0.5">
+                                    <Grid.RenderTransform>
+                                        <TransformGroup>
+                                            <ScaleTransform/>
+                                            <SkewTransform/>
+                                            <RotateTransform/>
+                                            <TranslateTransform/>
+                                        </TransformGroup>
+                                    </Grid.RenderTransform>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="10" />
+                                        <ColumnDefinition Width="*" />
+                                    </Grid.ColumnDefinitions>
+                                    <Border Background="LightGray" />
+                                    <Border Grid.Column="1"
+                                            x:Name="Bd"
+                                            Background="{TemplateBinding Background}"
+                                            BorderBrush="{TemplateBinding BorderBrush}"
+                                            BorderThickness="{TemplateBinding BorderThickness}"
+                                            Padding="{TemplateBinding Padding}"
+                                            SnapsToDevicePixels="true">
+                                        <ContentPresenter HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}"
+                                              VerticalAlignment="{TemplateBinding VerticalContentAlignment}"
+                                              SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}"/>
+                                    </Border>
+                                </Grid>
+                                <ControlTemplate.Triggers>
+                                    <DataTrigger Binding="{Binding AnimateTransition}" Value="True">
+                                        <DataTrigger.EnterActions>
+                                            <BeginStoryboard Storyboard="{StaticResource Storyboard1}"/>
+                                        </DataTrigger.EnterActions>
+                                    </DataTrigger>
+                                    <Trigger Property="IsMouseOver" Value="true">
+                                        <Setter TargetName="Bd" Property="Background" Value="{DynamicResource ItemBackgroundSelected}"/>
+                                        <Setter Property="Foreground" Value="White" />
+                                    </Trigger>
+                                    <Trigger Property="IsMouseOver" Value="false">
+                                        <Setter TargetName="Bd" Property="Background" Value="SlateBlue"/>
+                                    </Trigger>
+                                    <Trigger Property="IsSelected" Value="true">
+                                        <Setter TargetName="Bd" Property="Background" Value="Blue"/>
+                                        <Setter Property="Foreground" Value="{DynamicResource ItemTextSelected}"/>
+                                        <Setter Property="FontWeight" Value="Normal" />
+                                    </Trigger>
+                                    <Trigger Property="IsEnabled" Value="false">
+                                        <Setter Property="Foreground" Value="{DynamicResource ItemTextDisabled}"/>
+                                    </Trigger>
+                                </ControlTemplate.Triggers>
+                            </ControlTemplate>
+                        </Setter.Value>
+                    </Setter>
+                </Style>
+            </local:BillListStyleSelector.NoBillThisMonthStyle>
+            <local:BillListStyleSelector.CantStartStyle>
+                <Style TargetType="ListBoxItem">
+                    <Setter Property="FocusVisualStyle" Value="{x:Null}" />
+                    <Setter Property="Height" Value="50" />
+                    <Setter Property="Template">
+                        <Setter.Value>
+                            <ControlTemplate TargetType="{x:Type ListBoxItem}">
+                                <ControlTemplate.Resources>
+                                    <Storyboard x:Key="Storyboard1">
+                                        <DoubleAnimation BeginTime="00:00:00" Duration="00:00:00.500" Storyboard.TargetName="contentGrid"
+                                                         Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" From="-50" To="0">
+                                            <DoubleAnimation.EasingFunction>
+                                                <CubicEase EasingMode="EaseOut"/>
+                                            </DoubleAnimation.EasingFunction>
+                                        </DoubleAnimation>
+                                    </Storyboard>
+                                </ControlTemplate.Resources>
+                                <Grid x:Name="contentGrid" Margin="0,0,0,2" RenderTransformOrigin="0.5,0.5">
+                                    <Grid.RenderTransform>
+                                        <TransformGroup>
+                                            <ScaleTransform/>
+                                            <SkewTransform/>
+                                            <RotateTransform/>
+                                            <TranslateTransform/>
+                                        </TransformGroup>
+                                    </Grid.RenderTransform>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="10" />
+                                        <ColumnDefinition Width="*" />
+                                    </Grid.ColumnDefinitions>
+                                    <Border Background="Gray" />
+                                    <Border Grid.Column="1"
+                                            x:Name="Bd"
+                                            Background="{TemplateBinding Background}"
+                                            BorderBrush="{TemplateBinding BorderBrush}"
+                                            BorderThickness="{TemplateBinding BorderThickness}"
+                                            Padding="{TemplateBinding Padding}"
+                                            SnapsToDevicePixels="true">
+                                        <ContentPresenter HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}"
+                                              VerticalAlignment="{TemplateBinding VerticalContentAlignment}"
+                                              SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}"/>
+                                    </Border>
+                                </Grid>
+                                <ControlTemplate.Triggers>
+                                    <DataTrigger Binding="{Binding AnimateTransition}" Value="True">
+                                        <DataTrigger.EnterActions>
+                                            <BeginStoryboard Storyboard="{StaticResource Storyboard1}"/>
+                                        </DataTrigger.EnterActions>
+                                    </DataTrigger>
+                                    <Trigger Property="IsMouseOver" Value="true">
+                                        <Setter TargetName="Bd" Property="Background" Value="{DynamicResource ItemBackgroundSelected}"/>
+                                        <Setter Property="Foreground" Value="White" />
+                                    </Trigger>
+                                    <Trigger Property="IsMouseOver" Value="false">
+                                        <Setter TargetName="Bd" Property="Background" Value="SlateBlue"/>
+                                    </Trigger>
+                                    <Trigger Property="IsSelected" Value="true">
+                                        <Setter TargetName="Bd" Property="Background" Value="Blue"/>
+                                        <Setter Property="Foreground" Value="{DynamicResource ItemTextSelected}"/>
+                                        <Setter Property="FontWeight" Value="Normal" />
+                                    </Trigger>
+                                    <Trigger Property="IsEnabled" Value="false">
+                                        <Setter Property="Foreground" Value="{DynamicResource ItemTextDisabled}"/>
+                                    </Trigger>
+                                </ControlTemplate.Triggers>
+                            </ControlTemplate>
+                        </Setter.Value>
+                    </Setter>
+                </Style>
+            </local:BillListStyleSelector.CantStartStyle>
+        </local:BillListStyleSelector>        
+    </UserControl.Resources>
+
+    <Grid Background="{StaticResource DarkSlateBlue}">
+        <ListBox Style="{StaticResource BillManagerListBox}"
+                 ScrollViewer.HorizontalScrollBarVisibility="Disabled"           
+                 HorizontalContentAlignment="Stretch"                 
+                 VerticalContentAlignment="Stretch"
+                 SelectedItem="{Binding SelectedBill}"
+                 ItemContainerStyleSelector="{StaticResource BillListStyleSelector}"
+                 ItemTemplateSelector="{StaticResource BillListTemplateSelector}"
+                 ItemsSource="{Binding Bills}">
+            <i:Interaction.Triggers>
+                <i:EventTrigger EventName="SelectionChanged">
+                    <i:InvokeCommandAction Command="{Binding BillSelectedCommand}"
+                                           CommandParameter="{Binding RelativeSource={RelativeSource AncestorLevel=1, AncestorType={x:Type ListBox}}, Path=SelectedValue}" />
+                </i:EventTrigger>
+            </i:Interaction.Triggers>
+        </ListBox>        
+    </Grid>
+</UserControl>

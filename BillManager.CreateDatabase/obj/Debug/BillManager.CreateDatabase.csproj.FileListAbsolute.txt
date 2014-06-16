@@ -1,0 +1,58 @@
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.CreateDatabase\obj\Debug\BillManager.CreateDatabase.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.CreateDatabase\bin\Debug\BillManager.CreateDatabase.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.CreateDatabase\bin\Debug\BillManager.CreateDatabase.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.CreateDatabase\bin\Debug\BillManager.CreateDatabase.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.CreateDatabase\bin\Debug\BillManager.Business.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.CreateDatabase\bin\Debug\BillManager.Data.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.CreateDatabase\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.CreateDatabase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.CreateDatabase\bin\Debug\BillManager.Core.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.CreateDatabase\bin\Debug\Core.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.CreateDatabase\bin\Debug\Microsoft.Practices.Prism.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.CreateDatabase\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.CreateDatabase\bin\Debug\NHibernate.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.CreateDatabase\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.CreateDatabase\bin\Debug\Iesi.Collections.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.CreateDatabase\bin\Debug\BillManager.Business.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.CreateDatabase\bin\Debug\BillManager.Data.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.CreateDatabase\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.CreateDatabase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.CreateDatabase\bin\Debug\BillManager.Core.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.CreateDatabase\bin\Debug\Core.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.CreateDatabase\bin\Debug\Microsoft.Practices.Prism.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.CreateDatabase\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.CreateDatabase\bin\Debug\NHibernate.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.CreateDatabase\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.CreateDatabase\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.CreateDatabase\bin\Debug\Iesi.Collections.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.CreateDatabase\obj\Debug\BillManager.CreateDatabase.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.CreateDatabase\obj\Debug\BillManager.CreateDatabase.pdb
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.CreateDatabase\bin\Debug\BillManager.CreateDatabase.exe.config
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.CreateDatabase\obj\Debug\BillManager.CreateDatabase.exe
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.CreateDatabase\obj\Debug\BillManager.CreateDatabase.pdb
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.CreateDatabase\bin\Debug\BillManager.CreateDatabase.exe
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.CreateDatabase\bin\Debug\BillManager.CreateDatabase.pdb
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.CreateDatabase\bin\Debug\BillManager.Business.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.CreateDatabase\bin\Debug\BillManager.Data.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.CreateDatabase\bin\Debug\EntityFramework.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.CreateDatabase\bin\Debug\EntityFramework.SqlServer.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.CreateDatabase\bin\Debug\BillManager.Core.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.CreateDatabase\bin\Debug\Core.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.CreateDatabase\bin\Debug\Microsoft.Practices.Prism.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.CreateDatabase\bin\Debug\Microsoft.Practices.Unity.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.CreateDatabase\bin\Debug\NHibernate.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.CreateDatabase\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.CreateDatabase\bin\Debug\Iesi.Collections.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.CreateDatabase\bin\Debug\BillManager.Business.pdb
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.CreateDatabase\bin\Debug\BillManager.Data.pdb
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.CreateDatabase\bin\Debug\EntityFramework.xml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.CreateDatabase\bin\Debug\EntityFramework.SqlServer.xml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.CreateDatabase\bin\Debug\BillManager.Core.pdb
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.CreateDatabase\bin\Debug\Core.pdb
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.CreateDatabase\bin\Debug\Microsoft.Practices.Prism.xml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.CreateDatabase\bin\Debug\Microsoft.Practices.Unity.xml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.CreateDatabase\bin\Debug\NHibernate.xml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.CreateDatabase\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.CreateDatabase\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.CreateDatabase\bin\Debug\Iesi.Collections.xml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.CreateDatabase\obj\Debug\BillManager.CreateDatabase.csprojResolveAssemblyReference.cache

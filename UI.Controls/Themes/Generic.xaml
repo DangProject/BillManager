@@ -1,0 +1,14 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    
+    <ResourceDictionary.MergedDictionaries>
+        <ResourceDictionary Source="/UI.Controls;component/ColorsAndBrushes/ColorsAndBrushes.xaml" />
+        <ResourceDictionary Source="/UI.Controls;component/Themes/OnOffSlider.xaml" />
+        <ResourceDictionary Source="/UI.Controls;component/Themes/AudioOnOff.xaml" />
+        <ResourceDictionary Source="/UI.Controls;component/Themes/ComboBoxWithHyperlink.xaml" />
+        <ResourceDictionary Source="/UI.Controls;component/Themes/EditButton.xaml" />
+        <ResourceDictionary Source="/UI.Controls;component/Themes/MetroBackButton.xaml" />
+        <ResourceDictionary Source="/UI.Controls;component/Themes/TransitioningContentControl.xaml" />
+    </ResourceDictionary.MergedDictionaries>   
+  
+</ResourceDictionary>

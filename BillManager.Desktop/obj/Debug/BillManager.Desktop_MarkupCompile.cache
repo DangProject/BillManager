@@ -1,0 +1,20 @@
+﻿BillManager.Desktop
+
+
+winexe
+C#
+.cs
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\obj\Debug\
+BillManager.Desktop
+none
+false
+DEBUG;TRACE
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\App.xaml
+18463085246
+1-1185341655
+51272046065
+401078792686
+Resources\BillManagerStyles.xaml;Resources\ColorsAndBrushes.xaml;Resources\DefaultStyles.xaml;TestStyle.xaml;Views\BillSummaryView.xaml;Views\CreateBillView.xaml;Views\CreateWebsiteView.xaml;Views\ViewContainerWindow.xaml;Views\BillContentView.xaml;Views\BillListView.xaml;Views\BreadCrumbView.xaml;Views\CreateCategoryView.xaml;Views\Demo.xaml;Views\LogonView.xaml;Views\MainShell.xaml;Views\NoBillSelectedView.xaml;Views\ToolsView.xaml;Shell.xaml;
+
+False
+

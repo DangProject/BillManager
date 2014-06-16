@@ -1,0 +1,19 @@
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Release\BillManager.Desktop.exe.config
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Release\BillManager.Desktop.csprojResolveAssemblyReference.cache
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Release\Resources\DefaultStyles.baml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Release\Views\AddBillView.baml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Release\Views\BillContentView.baml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Release\Views\BreadCrumbView.baml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Release\Views\ToolsView.baml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Release\Views\AddBillView.g.cs
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Release\Views\AddBillWindow.g.cs
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Release\Views\BillContentView.g.cs
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Release\Views\BreadCrumbView.g.cs
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Release\Views\MainShell.g.cs
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Release\Views\ToolsView.g.cs
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Release\Shell.g.cs
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Release\App.g.cs
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Release\BillManager.Desktop_MarkupCompile.cache
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Release\BillManager.Desktop_MarkupCompile.lref
+C:\Users\Dang\Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Release\BillManager.Desktop.exe.config
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Release\BillManager.Desktop.exe.config

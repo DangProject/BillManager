@@ -1,0 +1,311 @@
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\obj\Debug\BillManager.Data.csprojResolveAssemblyReference.cache
+X:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\obj\Debug\BillManager.Data.csprojResolveAssemblyReference.cache
+X:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\obj\Debug\BillManager.Data.pdb
+X:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\BillManager.Data.dll.config
+X:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\BillManager.Data.dll
+X:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\BillManager.Data.pdb
+X:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\BillManager.Business.dll
+X:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\Core.dll
+X:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\EntityFramework.dll
+X:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\EntityFramework.SqlServer.dll
+X:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\Iesi.Collections.dll
+X:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\NHibernate.dll
+X:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\BillManager.Core.dll
+X:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\BillManager.Business.pdb
+X:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\Core.pdb
+X:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\EntityFramework.xml
+X:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\EntityFramework.SqlServer.xml
+X:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\Iesi.Collections.xml
+X:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\NHibernate.xml
+X:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\BillManager.Core.pdb
+X:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\obj\Debug\BillManager.Data.dll
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\obj\Debug\BillManager.Data.dll
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\obj\Debug\BillManager.Data.pdb
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\BillManager.Data.dll.config
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\BillManager.Data.dll
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\BillManager.Data.pdb
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\BillManager.Business.dll
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\Core.dll
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\EntityFramework.dll
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\EntityFramework.SqlServer.dll
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\Iesi.Collections.dll
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\NHibernate.dll
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\BillManager.Core.dll
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\BillManager.Business.pdb
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\Core.pdb
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\EntityFramework.xml
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\EntityFramework.SqlServer.xml
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\Iesi.Collections.xml
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\NHibernate.xml
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\BillManager.Core.pdb
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\Microsoft.Expression.Interactions.dll
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Prism.dll
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Unity.dll
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\System.Windows.Interactivity.dll
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Prism.xml
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Prism.Interactivity.xml
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.xml
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Unity.xml
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+E:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\obj\Debug\BillManager.Data.csprojResolveAssemblyReference.cache
+E:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\obj\Debug\BillManager.Data.dll
+E:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\BillManager.Data.dll.config
+E:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\BillManager.Data.dll
+E:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\BillManager.Data.pdb
+E:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\BillManager.Business.dll
+E:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\BillManager.Core.dll
+E:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\Core.dll
+E:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\EntityFramework.dll
+E:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\Iesi.Collections.dll
+E:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\Microsoft.Expression.Interactions.dll
+E:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Prism.dll
+E:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+E:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+E:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\NHibernate.dll
+E:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\System.Windows.Interactivity.dll
+E:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\BillManager.Business.pdb
+E:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\BillManager.Core.pdb
+E:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\Core.pdb
+E:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\EntityFramework.xml
+E:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\Iesi.Collections.xml
+E:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Prism.xml
+E:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Prism.Interactivity.xml
+E:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.xml
+E:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Unity.xml
+E:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+E:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\NHibernate.xml
+E:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\obj\Debug\BillManager.Data.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Data\bin\Debug\BillManager.Data.dll.config
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Data\bin\Debug\BillManager.Data.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Data\bin\Debug\BillManager.Data.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Data\bin\Debug\BillManager.Business.Entities.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Data\bin\Debug\Core.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Data\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Data\bin\Debug\Iesi.Collections.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Data\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Prism.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Data\bin\Debug\NHibernate.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Data\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Data\bin\Debug\BillManager.Business.Entities.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Data\bin\Debug\Core.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Data\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Data\bin\Debug\Iesi.Collections.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Prism.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Prism.Interactivity.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Data\bin\Debug\NHibernate.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Data\obj\Debug\BillManager.Data.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Data\obj\Debug\BillManager.Data.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Data\obj\Debug\BillManager.Data.pdb
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Data\bin\Debug\BillManager.Data.dll.config
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Data\bin\Debug\BillManager.Data.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Data\bin\Debug\BillManager.Data.pdb
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Data\bin\Debug\BillManager.Business.Entities.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Data\bin\Debug\Core.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Data\bin\Debug\EntityFramework.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Data\bin\Debug\Iesi.Collections.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Data\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Prism.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Data\bin\Debug\NHibernate.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Data\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Data\bin\Debug\BillManager.Business.Entities.pdb
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Data\bin\Debug\Core.pdb
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Data\bin\Debug\EntityFramework.xml
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Data\bin\Debug\Iesi.Collections.xml
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Prism.xml
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Prism.Interactivity.xml
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.xml
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Data\bin\Debug\NHibernate.xml
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Data\obj\Debug\BillManager.Data.csprojResolveAssemblyReference.cache
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Data\obj\Debug\BillManager.Data.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Data\obj\Debug\BillManager.Data.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Data\bin\Debug\FluentValidation.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Data\bin\Debug\FluentValidation.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Data\bin\Debug\FluentValidation.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Data\bin\Debug\de\FluentValidation.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Data\bin\Debug\es\FluentValidation.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Data\bin\Debug\fr\FluentValidation.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Data\bin\Debug\it\FluentValidation.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Data\bin\Debug\ko\FluentValidation.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Data\bin\Debug\nl\FluentValidation.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Data\bin\Debug\pl\FluentValidation.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Data\bin\Debug\pt\FluentValidation.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Data\bin\Debug\ru\FluentValidation.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Data\bin\Debug\sv\FluentValidation.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Data\bin\Debug\tr\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Data\bin\Debug\BillManager.Data.dll.config
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Data\bin\Debug\BillManager.Data.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Data\bin\Debug\BillManager.Data.pdb
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Data\bin\Debug\BillManager.Business.Entities.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Data\bin\Debug\Core.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Data\bin\Debug\EntityFramework.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Data\bin\Debug\Iesi.Collections.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Data\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Prism.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Data\bin\Debug\NHibernate.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Data\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Data\bin\Debug\FluentValidation.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Data\bin\Debug\BillManager.Business.Entities.pdb
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Data\bin\Debug\Core.pdb
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Data\bin\Debug\EntityFramework.xml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Data\bin\Debug\Iesi.Collections.xml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Prism.xml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Prism.Interactivity.xml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.xml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Data\bin\Debug\NHibernate.xml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Data\bin\Debug\FluentValidation.pdb
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Data\bin\Debug\FluentValidation.xml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Data\bin\Debug\de\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Data\bin\Debug\es\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Data\bin\Debug\fr\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Data\bin\Debug\it\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Data\bin\Debug\ko\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Data\bin\Debug\nl\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Data\bin\Debug\pl\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Data\bin\Debug\pt\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Data\bin\Debug\ru\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Data\bin\Debug\sv\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Data\bin\Debug\tr\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Data\obj\Debug\BillManager.Data.csprojResolveAssemblyReference.cache
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Data\obj\Debug\BillManager.Data.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Data\obj\Debug\BillManager.Data.pdb
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\BillManager.Data.dll.config
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\BillManager.Data.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\BillManager.Data.pdb
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\BillManager.Business.Entities.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\Core.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\EntityFramework.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\EntityFramework.SqlServer.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\Iesi.Collections.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\Microsoft.Expression.Interactions.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Prism.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Unity.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\NHibernate.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\System.Windows.Interactivity.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\FluentValidation.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\BillManager.Business.Entities.pdb
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\Core.pdb
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\EntityFramework.xml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\EntityFramework.SqlServer.xml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\Iesi.Collections.xml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Prism.xml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Prism.Interactivity.xml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.xml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Unity.xml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\NHibernate.xml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\FluentValidation.pdb
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\FluentValidation.xml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\de\FluentValidation.resources.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\es\FluentValidation.resources.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\fr\FluentValidation.resources.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\it\FluentValidation.resources.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\ko\FluentValidation.resources.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\nl\FluentValidation.resources.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\pl\FluentValidation.resources.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\pt\FluentValidation.resources.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\ru\FluentValidation.resources.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\sv\FluentValidation.resources.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\bin\Debug\tr\FluentValidation.resources.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\obj\Debug\BillManager.Data.csprojResolveAssemblyReference.cache
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\obj\Debug\BillManager.Data.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Data\obj\Debug\BillManager.Data.pdb
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Data\bin\Debug\BillManager.Data.dll.config
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Data\bin\Debug\BillManager.Data.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Data\bin\Debug\BillManager.Data.pdb
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Data\bin\Debug\BillManager.Business.Entities.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Data\bin\Debug\Core.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Data\bin\Debug\EntityFramework.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Data\bin\Debug\Iesi.Collections.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Data\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Prism.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Data\bin\Debug\NHibernate.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Data\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Data\bin\Debug\FluentValidation.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Data\bin\Debug\BillManager.Business.Entities.pdb
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Data\bin\Debug\Core.pdb
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Data\bin\Debug\EntityFramework.xml
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Data\bin\Debug\Iesi.Collections.xml
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Prism.xml
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Prism.Interactivity.xml
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.xml
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Data\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Data\bin\Debug\NHibernate.xml
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Data\bin\Debug\FluentValidation.pdb
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Data\bin\Debug\FluentValidation.xml
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Data\bin\Debug\de\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Data\bin\Debug\es\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Data\bin\Debug\fr\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Data\bin\Debug\it\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Data\bin\Debug\ko\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Data\bin\Debug\nl\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Data\bin\Debug\pl\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Data\bin\Debug\pt\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Data\bin\Debug\ru\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Data\bin\Debug\sv\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Data\bin\Debug\tr\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Data\obj\Debug\BillManager.Data.csprojResolveAssemblyReference.cache
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Data\obj\Debug\BillManager.Data.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Data\obj\Debug\BillManager.Data.pdb

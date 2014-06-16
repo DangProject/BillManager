@@ -1,0 +1,30 @@
+﻿<modularity:ModuleCatalog xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                          xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                          xmlns:sys="clr-namespace:System;assembly=mscorlib"
+                          xmlns:modularity="clr-namespace:Microsoft.Practices.Prism.Modularity;assembly=Microsoft.Practices.Prism">
+
+    <modularity:ModuleInfo ModuleName="DesktopModule"
+                           ModuleType="BillManager.Desktop.Module, BillManager.Desktop"
+                           Ref="BillManager.Desktop.dll">
+        <modularity:ModuleInfo.DependsOn>
+            <sys:String>ClientModule</sys:String>
+        </modularity:ModuleInfo.DependsOn>
+    </modularity:ModuleInfo>
+    
+    <modularity:ModuleInfo ModuleName="ClientModule"
+                           ModuleType="BillManager.Client.Module, BillManager.Client"
+                           Ref="BillManager.Client.dll" />
+
+    <!--<modularity:ModuleInfo ModuleName="DataModule"
+                           ModuleType="BillManager.Data.Module, BillManager.Data"
+                           Ref="BillManager.Data.dll" />
+
+    <modularity:ModuleInfo ModuleName="BusinessModule"
+                           ModuleType="BillManager.Business.Module, BillManager.Business"
+                           Ref="BillManager.Business.dll">
+        <modularity:ModuleInfo.DependsOn>
+            <sys:String>DataModule</sys:String>
+        </modularity:ModuleInfo.DependsOn>
+    </modularity:ModuleInfo>-->
+    
+</modularity:ModuleCatalog>

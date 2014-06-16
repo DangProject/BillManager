@@ -1,0 +1,253 @@
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\UI.Controls\bin\Debug\UI.Controls.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\UI.Controls\bin\Debug\UI.Controls.pdb
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\UI.Controls\obj\Debug\ColorsAndBrushes.baml
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\UI.Controls\obj\Debug\TemplatesAndStyles\HyperlinkButtonStyle.baml
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\UI.Controls\obj\Debug\TemplatesAndStyles\MaxRestoreStyle.baml
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\UI.Controls\obj\Debug\TemplatesAndStyles\MetroListBoxStyle.baml
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\UI.Controls\obj\Debug\TemplatesAndStyles\MetroButtonStyle.baml
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\UI.Controls\obj\Debug\TemplatesAndStyles\MetroComboBoxStyle.baml
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\UI.Controls\obj\Debug\TemplatesAndStyles\MetroScrollBarStyle.baml
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\UI.Controls\obj\Debug\TemplatesAndStyles\TemplatesAndStyles.baml
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\UI.Controls\obj\Debug\TemplatesAndStyles\MetroCheckBoxStyle.baml
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\UI.Controls\obj\Debug\Themes\Generic.baml
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\UI.Controls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\UI.Controls\obj\Debug\UI.Controls_MarkupCompile.cache
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\UI.Controls\obj\Debug\UI.Controls_MarkupCompile.lref
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\UI.Controls\obj\Debug\Themes\MetroBackButton.baml
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\UI.Controls\obj\Debug\Themes\AudioOnOff.baml
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\UI.Controls\obj\Debug\Themes\EditButton.baml
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\UI.Controls\obj\Debug\Themes\OnOffSlider.baml
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\UI.Controls\obj\Debug\UI.Controls.g.resources
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\UI.Controls\obj\Debug\UI.Controls.Properties.Resources.resources
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\UI.Controls\obj\Debug\UI.Controls.csproj.GenerateResource.Cache
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\UI.Controls\obj\Debug\UI.Controls.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\UI.Controls\obj\Debug\UI.Controls.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\UI.Controls\bin\Debug\UI.Controls.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\UI.Controls\bin\Debug\UI.Controls.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\UI.Controls\obj\Debug\TemplatesAndStyles\HyperlinkButtonStyle.baml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\UI.Controls\obj\Debug\TemplatesAndStyles\MaxRestoreStyle.baml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\UI.Controls\obj\Debug\TemplatesAndStyles\MetroListBoxStyle.baml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\UI.Controls\obj\Debug\TemplatesAndStyles\MetroButtonStyle.baml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\UI.Controls\obj\Debug\TemplatesAndStyles\MetroComboBoxStyle.baml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\UI.Controls\obj\Debug\TemplatesAndStyles\MetroScrollBarStyle.baml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\UI.Controls\obj\Debug\TemplatesAndStyles\TemplatesAndStyles.baml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\UI.Controls\obj\Debug\TemplatesAndStyles\MetroCheckBoxStyle.baml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\UI.Controls\obj\Debug\Themes\Generic.baml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\UI.Controls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\UI.Controls\obj\Debug\UI.Controls_MarkupCompile.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\UI.Controls\obj\Debug\UI.Controls_MarkupCompile.lref
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\UI.Controls\obj\Debug\Themes\MetroBackButton.baml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\UI.Controls\obj\Debug\Themes\AudioOnOff.baml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\UI.Controls\obj\Debug\Themes\EditButton.baml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\UI.Controls\obj\Debug\Themes\OnOffSlider.baml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\UI.Controls\obj\Debug\UI.Controls.g.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\UI.Controls\obj\Debug\UI.Controls.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\UI.Controls\obj\Debug\UI.Controls.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\UI.Controls\obj\Debug\UI.Controls.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\UI.Controls\obj\Debug\UI.Controls.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\UI.Controls\obj\Debug\UI.Controls.csprojResolveAssemblyReference.cache
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\UI.Controls\bin\Debug\UI.Controls.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\UI.Controls\bin\Debug\UI.Controls.pdb
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\UI.Controls\bin\Debug\Core.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\UI.Controls\bin\Debug\FirstFloor.ModernUI.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\UI.Controls\bin\Debug\EntityFramework.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\UI.Controls\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\UI.Controls\bin\Debug\NHibernate.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\UI.Controls\bin\Debug\FluentValidation.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\UI.Controls\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\UI.Controls\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\UI.Controls\bin\Debug\Iesi.Collections.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\UI.Controls\bin\Debug\Core.pdb
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\UI.Controls\bin\Debug\EntityFramework.xml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\UI.Controls\bin\Debug\NHibernate.xml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\UI.Controls\bin\Debug\FluentValidation.pdb
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\UI.Controls\bin\Debug\FluentValidation.xml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\UI.Controls\bin\Debug\Iesi.Collections.xml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\UI.Controls\bin\Debug\de\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\UI.Controls\bin\Debug\es\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\UI.Controls\bin\Debug\fr\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\UI.Controls\bin\Debug\it\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\UI.Controls\bin\Debug\ko\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\UI.Controls\bin\Debug\nl\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\UI.Controls\bin\Debug\pl\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\UI.Controls\bin\Debug\pt\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\UI.Controls\bin\Debug\ru\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\UI.Controls\bin\Debug\sv\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\UI.Controls\bin\Debug\tr\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\UI.Controls\obj\Debug\UI.Controls.csprojResolveAssemblyReference.cache
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\UI.Controls\obj\Debug\ColorsAndBrushes\ColorsAndBrushes.baml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\UI.Controls\obj\Debug\TemplatesAndStyles\AddButtonTemplate.baml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\UI.Controls\obj\Debug\TemplatesAndStyles\HyperlinkButtonStyle.baml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\UI.Controls\obj\Debug\TemplatesAndStyles\MaxRestoreStyle.baml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\UI.Controls\obj\Debug\TemplatesAndStyles\MetroListBoxStyle.baml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\UI.Controls\obj\Debug\TemplatesAndStyles\MetroButtonStyle.baml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\UI.Controls\obj\Debug\TemplatesAndStyles\MetroComboBoxStyle.baml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\UI.Controls\obj\Debug\TemplatesAndStyles\MetroScrollBarStyle.baml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\UI.Controls\obj\Debug\TemplatesAndStyles\TemplatesAndStyles.baml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\UI.Controls\obj\Debug\TemplatesAndStyles\MetroCheckBoxStyle.baml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\UI.Controls\obj\Debug\Themes\Generic.baml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\UI.Controls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\UI.Controls\obj\Debug\UI.Controls_MarkupCompile.cache
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\UI.Controls\obj\Debug\UI.Controls_MarkupCompile.lref
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\UI.Controls\obj\Debug\Themes\ComboBoxWithHyperlink.baml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\UI.Controls\obj\Debug\Themes\MetroBackButton.baml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\UI.Controls\obj\Debug\Themes\AudioOnOff.baml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\UI.Controls\obj\Debug\Themes\EditButton.baml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\UI.Controls\obj\Debug\Themes\OnOffSlider.baml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\UI.Controls\obj\Debug\Themes\TransitioningContentControl.baml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\UI.Controls\obj\Debug\UI.Controls.g.resources
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\UI.Controls\obj\Debug\UI.Controls.Properties.Resources.resources
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\UI.Controls\obj\Debug\UI.Controls.csproj.GenerateResource.Cache
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\UI.Controls\obj\Debug\UI.Controls.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\UI.Controls\obj\Debug\UI.Controls.pdb
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\UI.Controls\obj\Debug\TemplatesAndStyles\DeleteXButtonTemplate.baml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\UI.Controls\bin\Debug\Core.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\UI.Controls\bin\Debug\FirstFloor.ModernUI.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\UI.Controls\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\UI.Controls\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\UI.Controls\bin\Debug\NHibernate.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\UI.Controls\bin\Debug\FluentValidation.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\UI.Controls\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\UI.Controls\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\UI.Controls\bin\Debug\Iesi.Collections.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\UI.Controls\bin\Debug\Core.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\UI.Controls\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\UI.Controls\bin\Debug\NHibernate.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\UI.Controls\bin\Debug\FluentValidation.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\UI.Controls\bin\Debug\FluentValidation.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\UI.Controls\bin\Debug\Iesi.Collections.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\UI.Controls\bin\Debug\de\FluentValidation.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\UI.Controls\bin\Debug\es\FluentValidation.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\UI.Controls\bin\Debug\fr\FluentValidation.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\UI.Controls\bin\Debug\it\FluentValidation.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\UI.Controls\bin\Debug\ko\FluentValidation.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\UI.Controls\bin\Debug\nl\FluentValidation.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\UI.Controls\bin\Debug\pl\FluentValidation.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\UI.Controls\bin\Debug\pt\FluentValidation.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\UI.Controls\bin\Debug\ru\FluentValidation.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\UI.Controls\bin\Debug\sv\FluentValidation.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\UI.Controls\bin\Debug\tr\FluentValidation.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\UI.Controls\obj\Debug\ColorsAndBrushes\ColorsAndBrushes.baml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\UI.Controls\obj\Debug\TemplatesAndStyles\AddButtonStyle.baml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\UI.Controls\obj\Debug\TemplatesAndStyles\AddButtonTemplate.baml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\UI.Controls\obj\Debug\TemplatesAndStyles\ClearButtonStyle.baml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\UI.Controls\obj\Debug\TemplatesAndStyles\DeleteXButtonTemplate.baml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\UI.Controls\obj\Debug\TemplatesAndStyles\NoStyleButtonStyle.baml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\UI.Controls\obj\Debug\Themes\ComboBoxWithHyperlink.baml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\UI.Controls\obj\Debug\Themes\TransitioningContentControl.baml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\UI.Controls\bin\Debug\UI.Controls.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\UI.Controls\bin\Debug\UI.Controls.pdb
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\UI.Controls\bin\Debug\Core.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\UI.Controls\bin\Debug\FirstFloor.ModernUI.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\UI.Controls\bin\Debug\EntityFramework.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\UI.Controls\bin\Debug\System.Windows.Interactivity.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\UI.Controls\bin\Debug\NHibernate.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\UI.Controls\bin\Debug\FluentValidation.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\UI.Controls\bin\Debug\Microsoft.Expression.Interactions.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\UI.Controls\bin\Debug\Microsoft.Windows.Shell.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\UI.Controls\bin\Debug\Iesi.Collections.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\UI.Controls\bin\Debug\Core.pdb
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\UI.Controls\bin\Debug\EntityFramework.xml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\UI.Controls\bin\Debug\NHibernate.xml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\UI.Controls\bin\Debug\FluentValidation.pdb
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\UI.Controls\bin\Debug\FluentValidation.xml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\UI.Controls\bin\Debug\Iesi.Collections.xml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\UI.Controls\bin\Debug\de\FluentValidation.resources.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\UI.Controls\bin\Debug\es\FluentValidation.resources.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\UI.Controls\bin\Debug\fr\FluentValidation.resources.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\UI.Controls\bin\Debug\it\FluentValidation.resources.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\UI.Controls\bin\Debug\ko\FluentValidation.resources.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\UI.Controls\bin\Debug\nl\FluentValidation.resources.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\UI.Controls\bin\Debug\pl\FluentValidation.resources.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\UI.Controls\bin\Debug\pt\FluentValidation.resources.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\UI.Controls\bin\Debug\ru\FluentValidation.resources.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\UI.Controls\bin\Debug\sv\FluentValidation.resources.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\UI.Controls\bin\Debug\tr\FluentValidation.resources.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\UI.Controls\obj\Debug\UI.Controls.csprojResolveAssemblyReference.cache
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\UI.Controls\obj\Debug\ColorsAndBrushes\ColorsAndBrushes.baml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\UI.Controls\obj\Debug\TemplatesAndStyles\AddButtonStyle.baml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\UI.Controls\obj\Debug\TemplatesAndStyles\AddButtonTemplate.baml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\UI.Controls\obj\Debug\TemplatesAndStyles\ClearButtonStyle.baml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\UI.Controls\obj\Debug\TemplatesAndStyles\DeleteXButtonTemplate.baml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\UI.Controls\obj\Debug\TemplatesAndStyles\HyperlinkButtonStyle.baml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\UI.Controls\obj\Debug\TemplatesAndStyles\MaxRestoreStyle.baml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\UI.Controls\obj\Debug\TemplatesAndStyles\MetroListBoxStyle.baml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\UI.Controls\obj\Debug\TemplatesAndStyles\NoStyleButtonStyle.baml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\UI.Controls\obj\Debug\TemplatesAndStyles\MetroButtonStyle.baml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\UI.Controls\obj\Debug\TemplatesAndStyles\MetroComboBoxStyle.baml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\UI.Controls\obj\Debug\TemplatesAndStyles\MetroScrollBarStyle.baml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\UI.Controls\obj\Debug\TemplatesAndStyles\TemplatesAndStyles.baml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\UI.Controls\obj\Debug\TemplatesAndStyles\MetroCheckBoxStyle.baml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\UI.Controls\obj\Debug\Themes\Generic.baml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\UI.Controls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\UI.Controls\obj\Debug\UI.Controls_MarkupCompile.cache
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\UI.Controls\obj\Debug\UI.Controls_MarkupCompile.lref
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\UI.Controls\obj\Debug\Themes\ComboBoxWithHyperlink.baml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\UI.Controls\obj\Debug\Themes\MetroBackButton.baml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\UI.Controls\obj\Debug\Themes\AudioOnOff.baml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\UI.Controls\obj\Debug\Themes\EditButton.baml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\UI.Controls\obj\Debug\Themes\OnOffSlider.baml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\UI.Controls\obj\Debug\Themes\TransitioningContentControl.baml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\UI.Controls\obj\Debug\UI.Controls.g.resources
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\UI.Controls\obj\Debug\UI.Controls.Properties.Resources.resources
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\UI.Controls\obj\Debug\UI.Controls.csproj.GenerateResource.Cache
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\UI.Controls\obj\Debug\UI.Controls.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\UI.Controls\obj\Debug\UI.Controls.pdb
+C:\Users\dn_z0224\Desktop\BillManager\UI.Controls\bin\Debug\UI.Controls.dll
+C:\Users\dn_z0224\Desktop\BillManager\UI.Controls\bin\Debug\UI.Controls.pdb
+C:\Users\dn_z0224\Desktop\BillManager\UI.Controls\bin\Debug\Core.dll
+C:\Users\dn_z0224\Desktop\BillManager\UI.Controls\bin\Debug\FirstFloor.ModernUI.dll
+C:\Users\dn_z0224\Desktop\BillManager\UI.Controls\bin\Debug\EntityFramework.dll
+C:\Users\dn_z0224\Desktop\BillManager\UI.Controls\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\dn_z0224\Desktop\BillManager\UI.Controls\bin\Debug\NHibernate.dll
+C:\Users\dn_z0224\Desktop\BillManager\UI.Controls\bin\Debug\FluentValidation.dll
+C:\Users\dn_z0224\Desktop\BillManager\UI.Controls\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\dn_z0224\Desktop\BillManager\UI.Controls\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\dn_z0224\Desktop\BillManager\UI.Controls\bin\Debug\Iesi.Collections.dll
+C:\Users\dn_z0224\Desktop\BillManager\UI.Controls\bin\Debug\Core.pdb
+C:\Users\dn_z0224\Desktop\BillManager\UI.Controls\bin\Debug\EntityFramework.xml
+C:\Users\dn_z0224\Desktop\BillManager\UI.Controls\bin\Debug\NHibernate.xml
+C:\Users\dn_z0224\Desktop\BillManager\UI.Controls\bin\Debug\FluentValidation.pdb
+C:\Users\dn_z0224\Desktop\BillManager\UI.Controls\bin\Debug\FluentValidation.xml
+C:\Users\dn_z0224\Desktop\BillManager\UI.Controls\bin\Debug\Iesi.Collections.xml
+C:\Users\dn_z0224\Desktop\BillManager\UI.Controls\bin\Debug\de\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\BillManager\UI.Controls\bin\Debug\es\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\BillManager\UI.Controls\bin\Debug\fr\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\BillManager\UI.Controls\bin\Debug\it\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\BillManager\UI.Controls\bin\Debug\ko\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\BillManager\UI.Controls\bin\Debug\nl\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\BillManager\UI.Controls\bin\Debug\pl\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\BillManager\UI.Controls\bin\Debug\pt\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\BillManager\UI.Controls\bin\Debug\ru\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\BillManager\UI.Controls\bin\Debug\sv\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\BillManager\UI.Controls\bin\Debug\tr\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\BillManager\UI.Controls\obj\Debug\UI.Controls.csprojResolveAssemblyReference.cache
+C:\Users\dn_z0224\Desktop\BillManager\UI.Controls\obj\Debug\ColorsAndBrushes\ColorsAndBrushes.baml
+C:\Users\dn_z0224\Desktop\BillManager\UI.Controls\obj\Debug\TemplatesAndStyles\AddButtonStyle.baml
+C:\Users\dn_z0224\Desktop\BillManager\UI.Controls\obj\Debug\TemplatesAndStyles\AddButtonTemplate.baml
+C:\Users\dn_z0224\Desktop\BillManager\UI.Controls\obj\Debug\TemplatesAndStyles\ClearButtonStyle.baml
+C:\Users\dn_z0224\Desktop\BillManager\UI.Controls\obj\Debug\TemplatesAndStyles\DeleteXButtonTemplate.baml
+C:\Users\dn_z0224\Desktop\BillManager\UI.Controls\obj\Debug\TemplatesAndStyles\HyperlinkButtonStyle.baml
+C:\Users\dn_z0224\Desktop\BillManager\UI.Controls\obj\Debug\TemplatesAndStyles\MaxRestoreStyle.baml
+C:\Users\dn_z0224\Desktop\BillManager\UI.Controls\obj\Debug\TemplatesAndStyles\MetroListBoxStyle.baml
+C:\Users\dn_z0224\Desktop\BillManager\UI.Controls\obj\Debug\TemplatesAndStyles\NoStyleButtonStyle.baml
+C:\Users\dn_z0224\Desktop\BillManager\UI.Controls\obj\Debug\TemplatesAndStyles\MetroButtonStyle.baml
+C:\Users\dn_z0224\Desktop\BillManager\UI.Controls\obj\Debug\TemplatesAndStyles\MetroComboBoxStyle.baml
+C:\Users\dn_z0224\Desktop\BillManager\UI.Controls\obj\Debug\TemplatesAndStyles\MetroScrollBarStyle.baml
+C:\Users\dn_z0224\Desktop\BillManager\UI.Controls\obj\Debug\TemplatesAndStyles\TemplatesAndStyles.baml
+C:\Users\dn_z0224\Desktop\BillManager\UI.Controls\obj\Debug\TemplatesAndStyles\MetroCheckBoxStyle.baml
+C:\Users\dn_z0224\Desktop\BillManager\UI.Controls\obj\Debug\Themes\Generic.baml
+C:\Users\dn_z0224\Desktop\BillManager\UI.Controls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\dn_z0224\Desktop\BillManager\UI.Controls\obj\Debug\UI.Controls_MarkupCompile.cache
+C:\Users\dn_z0224\Desktop\BillManager\UI.Controls\obj\Debug\UI.Controls_MarkupCompile.lref
+C:\Users\dn_z0224\Desktop\BillManager\UI.Controls\obj\Debug\Themes\ComboBoxWithHyperlink.baml
+C:\Users\dn_z0224\Desktop\BillManager\UI.Controls\obj\Debug\Themes\MetroBackButton.baml
+C:\Users\dn_z0224\Desktop\BillManager\UI.Controls\obj\Debug\Themes\AudioOnOff.baml
+C:\Users\dn_z0224\Desktop\BillManager\UI.Controls\obj\Debug\Themes\EditButton.baml
+C:\Users\dn_z0224\Desktop\BillManager\UI.Controls\obj\Debug\Themes\OnOffSlider.baml
+C:\Users\dn_z0224\Desktop\BillManager\UI.Controls\obj\Debug\Themes\TransitioningContentControl.baml
+C:\Users\dn_z0224\Desktop\BillManager\UI.Controls\obj\Debug\UI.Controls.g.resources
+C:\Users\dn_z0224\Desktop\BillManager\UI.Controls\obj\Debug\UI.Controls.Properties.Resources.resources
+C:\Users\dn_z0224\Desktop\BillManager\UI.Controls\obj\Debug\UI.Controls.csproj.GenerateResource.Cache
+C:\Users\dn_z0224\Desktop\BillManager\UI.Controls\obj\Debug\UI.Controls.dll
+C:\Users\dn_z0224\Desktop\BillManager\UI.Controls\obj\Debug\UI.Controls.pdb

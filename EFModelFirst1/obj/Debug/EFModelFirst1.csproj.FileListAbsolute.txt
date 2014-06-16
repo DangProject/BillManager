@@ -1,0 +1,59 @@
+E:\Mac Files\Desktop\Work\Projects\Home\BillManager\EFModelFirst1\bin\Debug\EFModelFirst1.dll.config
+E:\Mac Files\Desktop\Work\Projects\Home\BillManager\EFModelFirst1\bin\Debug\EFModelFirst1.dll
+E:\Mac Files\Desktop\Work\Projects\Home\BillManager\EFModelFirst1\bin\Debug\EFModelFirst1.pdb
+E:\Mac Files\Desktop\Work\Projects\Home\BillManager\EFModelFirst1\bin\Debug\EntityFramework.dll
+E:\Mac Files\Desktop\Work\Projects\Home\BillManager\EFModelFirst1\bin\Debug\EntityFramework.SqlServer.dll
+E:\Mac Files\Desktop\Work\Projects\Home\BillManager\EFModelFirst1\bin\Debug\EntityFramework.xml
+E:\Mac Files\Desktop\Work\Projects\Home\BillManager\EFModelFirst1\bin\Debug\EntityFramework.SqlServer.xml
+E:\Mac Files\Desktop\Work\Projects\Home\BillManager\EFModelFirst1\obj\Debug\EFModelFirst1.csprojResolveAssemblyReference.cache
+E:\Mac Files\Desktop\Work\Projects\Home\BillManager\EFModelFirst1\obj\Debug\EFModelFirst1.dll
+E:\Mac Files\Desktop\Work\Projects\Home\BillManager\EFModelFirst1\obj\Debug\EFModelFirst1.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\EFModelFirst1\bin\Debug\EFModelFirst1.dll.config
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\EFModelFirst1\bin\Debug\EFModelFirst1.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\EFModelFirst1\bin\Debug\EFModelFirst1.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\EFModelFirst1\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\EFModelFirst1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\EFModelFirst1\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\EFModelFirst1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\EFModelFirst1\obj\Debug\EFModelFirst1.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\EFModelFirst1\obj\Debug\EFModelFirst1.pdb
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\EFModelFirst1\bin\Debug\EFModelFirst1.dll.config
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\EFModelFirst1\bin\Debug\EFModelFirst1.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\EFModelFirst1\bin\Debug\EFModelFirst1.pdb
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\EFModelFirst1\bin\Debug\EntityFramework.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\EFModelFirst1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\EFModelFirst1\bin\Debug\EntityFramework.xml
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\EFModelFirst1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\EFModelFirst1\obj\Debug\EFModelFirst1.csprojResolveAssemblyReference.cache
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\EFModelFirst1\obj\Debug\EFModelFirst1.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\EFModelFirst1\obj\Debug\EFModelFirst1.pdb
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\EFModelFirst1\bin\Debug\EFModelFirst1.dll.config
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\EFModelFirst1\bin\Debug\EFModelFirst1.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\EFModelFirst1\bin\Debug\EFModelFirst1.pdb
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\EFModelFirst1\bin\Debug\EntityFramework.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\EFModelFirst1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\EFModelFirst1\bin\Debug\EntityFramework.xml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\EFModelFirst1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\EFModelFirst1\obj\Debug\EFModelFirst1.csprojResolveAssemblyReference.cache
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\EFModelFirst1\obj\Debug\EFModelFirst1.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\EFModelFirst1\obj\Debug\EFModelFirst1.pdb
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\EFModelFirst1\bin\Debug\EFModelFirst1.dll.config
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\EFModelFirst1\bin\Debug\EFModelFirst1.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\EFModelFirst1\bin\Debug\EFModelFirst1.pdb
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\EFModelFirst1\bin\Debug\EntityFramework.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\EFModelFirst1\bin\Debug\EntityFramework.SqlServer.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\EFModelFirst1\bin\Debug\EntityFramework.xml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\EFModelFirst1\bin\Debug\EntityFramework.SqlServer.xml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\EFModelFirst1\obj\Debug\EFModelFirst1.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\EFModelFirst1\obj\Debug\EFModelFirst1.pdb
+C:\Users\dn_z0224\Desktop\BillManager\EFModelFirst1\bin\Debug\EFModelFirst1.dll.config
+C:\Users\dn_z0224\Desktop\BillManager\EFModelFirst1\bin\Debug\EFModelFirst1.dll
+C:\Users\dn_z0224\Desktop\BillManager\EFModelFirst1\bin\Debug\EFModelFirst1.pdb
+C:\Users\dn_z0224\Desktop\BillManager\EFModelFirst1\bin\Debug\EntityFramework.dll
+C:\Users\dn_z0224\Desktop\BillManager\EFModelFirst1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dn_z0224\Desktop\BillManager\EFModelFirst1\bin\Debug\EntityFramework.xml
+C:\Users\dn_z0224\Desktop\BillManager\EFModelFirst1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dn_z0224\Desktop\BillManager\EFModelFirst1\obj\Debug\EFModelFirst1.dll
+C:\Users\dn_z0224\Desktop\BillManager\EFModelFirst1\obj\Debug\EFModelFirst1.pdb
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\EFModelFirst1\obj\Debug\EFModelFirst1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\EFModelFirst1\obj\Debug\EFModelFirst1.csprojResolveAssemblyReference.cache

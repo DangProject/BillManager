@@ -1,0 +1,153 @@
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\Core\bin\Debug\Core.dll
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\Core\bin\Debug\Core.pdb
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\Core\obj\Debug\Core.dll
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\Core\obj\Debug\Core.pdb
+X:\Mac Files\Desktop\Work\Projects\Home\BillManager\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+X:\Mac Files\Desktop\Work\Projects\Home\BillManager\Core\obj\Debug\Core.dll
+X:\Mac Files\Desktop\Work\Projects\Home\BillManager\Core\obj\Debug\Core.pdb
+X:\Mac Files\Desktop\Work\Projects\Home\BillManager\Core\bin\Debug\Core.dll
+X:\Mac Files\Desktop\Work\Projects\Home\BillManager\Core\bin\Debug\Core.pdb
+X:\Mac Files\Desktop\Work\Projects\Home\BillManager\Core\bin\Debug\EntityFramework.dll
+X:\Mac Files\Desktop\Work\Projects\Home\BillManager\Core\bin\Debug\EntityFramework.SqlServer.dll
+X:\Mac Files\Desktop\Work\Projects\Home\BillManager\Core\bin\Debug\Iesi.Collections.dll
+X:\Mac Files\Desktop\Work\Projects\Home\BillManager\Core\bin\Debug\NHibernate.dll
+X:\Mac Files\Desktop\Work\Projects\Home\BillManager\Core\bin\Debug\EntityFramework.xml
+X:\Mac Files\Desktop\Work\Projects\Home\BillManager\Core\bin\Debug\EntityFramework.SqlServer.xml
+X:\Mac Files\Desktop\Work\Projects\Home\BillManager\Core\bin\Debug\Iesi.Collections.xml
+X:\Mac Files\Desktop\Work\Projects\Home\BillManager\Core\bin\Debug\NHibernate.xml
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\Core\bin\Debug\EntityFramework.dll
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\Core\bin\Debug\EntityFramework.SqlServer.dll
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\Core\bin\Debug\Iesi.Collections.dll
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\Core\bin\Debug\NHibernate.dll
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\Core\bin\Debug\EntityFramework.xml
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\Core\bin\Debug\EntityFramework.SqlServer.xml
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\Core\bin\Debug\Iesi.Collections.xml
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\Core\bin\Debug\NHibernate.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\Core\bin\Debug\Core.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\Core\bin\Debug\Core.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\Core\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\Core\bin\Debug\Iesi.Collections.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\Core\bin\Debug\NHibernate.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\Core\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\Core\bin\Debug\Iesi.Collections.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\Core\bin\Debug\NHibernate.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\Core\obj\Debug\Core.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\Core\obj\Debug\Core.pdb
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\Core\bin\Debug\Core.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\Core\bin\Debug\Core.pdb
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\Core\bin\Debug\EntityFramework.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\Core\bin\Debug\Iesi.Collections.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\Core\bin\Debug\NHibernate.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\Core\bin\Debug\EntityFramework.xml
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\Core\bin\Debug\Iesi.Collections.xml
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\Core\bin\Debug\NHibernate.xml
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\Core\obj\Debug\Core.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\Core\obj\Debug\Core.pdb
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\Core\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\Core\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\Core\bin\Debug\FluentValidation.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\Core\bin\Debug\FluentValidation.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\Core\bin\Debug\FluentValidation.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\Core\bin\Debug\de\FluentValidation.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\Core\bin\Debug\es\FluentValidation.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\Core\bin\Debug\fr\FluentValidation.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\Core\bin\Debug\it\FluentValidation.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\Core\bin\Debug\ko\FluentValidation.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\Core\bin\Debug\nl\FluentValidation.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\Core\bin\Debug\pl\FluentValidation.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\Core\bin\Debug\pt\FluentValidation.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\Core\bin\Debug\ru\FluentValidation.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\Core\bin\Debug\sv\FluentValidation.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\Core\bin\Debug\tr\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\Core\bin\Debug\Core.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\Core\bin\Debug\Core.pdb
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\Core\bin\Debug\EntityFramework.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\Core\bin\Debug\FluentValidation.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\Core\bin\Debug\Iesi.Collections.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\Core\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\Core\bin\Debug\NHibernate.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\Core\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\Core\bin\Debug\EntityFramework.xml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\Core\bin\Debug\FluentValidation.pdb
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\Core\bin\Debug\FluentValidation.xml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\Core\bin\Debug\Iesi.Collections.xml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\Core\bin\Debug\NHibernate.xml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\Core\bin\Debug\de\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\Core\bin\Debug\es\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\Core\bin\Debug\fr\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\Core\bin\Debug\it\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\Core\bin\Debug\ko\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\Core\bin\Debug\nl\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\Core\bin\Debug\pl\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\Core\bin\Debug\pt\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\Core\bin\Debug\ru\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\Core\bin\Debug\sv\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\Core\bin\Debug\tr\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\Core\obj\Debug\Core.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\Core\obj\Debug\Core.pdb
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\Core\bin\Debug\Core.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\Core\bin\Debug\Core.pdb
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\Core\bin\Debug\EntityFramework.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\Core\bin\Debug\EntityFramework.SqlServer.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\Core\bin\Debug\FluentValidation.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\Core\bin\Debug\Iesi.Collections.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\Core\bin\Debug\Microsoft.Expression.Interactions.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\Core\bin\Debug\NHibernate.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\Core\bin\Debug\System.Windows.Interactivity.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\Core\bin\Debug\EntityFramework.xml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\Core\bin\Debug\EntityFramework.SqlServer.xml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\Core\bin\Debug\FluentValidation.pdb
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\Core\bin\Debug\FluentValidation.xml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\Core\bin\Debug\Iesi.Collections.xml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\Core\bin\Debug\NHibernate.xml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\Core\bin\Debug\de\FluentValidation.resources.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\Core\bin\Debug\es\FluentValidation.resources.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\Core\bin\Debug\fr\FluentValidation.resources.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\Core\bin\Debug\it\FluentValidation.resources.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\Core\bin\Debug\ko\FluentValidation.resources.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\Core\bin\Debug\nl\FluentValidation.resources.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\Core\bin\Debug\pl\FluentValidation.resources.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\Core\bin\Debug\pt\FluentValidation.resources.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\Core\bin\Debug\ru\FluentValidation.resources.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\Core\bin\Debug\sv\FluentValidation.resources.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\Core\bin\Debug\tr\FluentValidation.resources.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\Core\obj\Debug\Core.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\Core\obj\Debug\Core.pdb
+C:\Users\dn_z0224\Desktop\BillManager\Core\bin\Debug\Core.dll
+C:\Users\dn_z0224\Desktop\BillManager\Core\bin\Debug\Core.pdb
+C:\Users\dn_z0224\Desktop\BillManager\Core\bin\Debug\EntityFramework.dll
+C:\Users\dn_z0224\Desktop\BillManager\Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dn_z0224\Desktop\BillManager\Core\bin\Debug\FluentValidation.dll
+C:\Users\dn_z0224\Desktop\BillManager\Core\bin\Debug\Iesi.Collections.dll
+C:\Users\dn_z0224\Desktop\BillManager\Core\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\dn_z0224\Desktop\BillManager\Core\bin\Debug\NHibernate.dll
+C:\Users\dn_z0224\Desktop\BillManager\Core\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\dn_z0224\Desktop\BillManager\Core\bin\Debug\EntityFramework.xml
+C:\Users\dn_z0224\Desktop\BillManager\Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dn_z0224\Desktop\BillManager\Core\bin\Debug\FluentValidation.pdb
+C:\Users\dn_z0224\Desktop\BillManager\Core\bin\Debug\FluentValidation.xml
+C:\Users\dn_z0224\Desktop\BillManager\Core\bin\Debug\Iesi.Collections.xml
+C:\Users\dn_z0224\Desktop\BillManager\Core\bin\Debug\NHibernate.xml
+C:\Users\dn_z0224\Desktop\BillManager\Core\bin\Debug\de\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\BillManager\Core\bin\Debug\es\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\BillManager\Core\bin\Debug\fr\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\BillManager\Core\bin\Debug\it\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\BillManager\Core\bin\Debug\ko\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\BillManager\Core\bin\Debug\nl\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\BillManager\Core\bin\Debug\pl\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\BillManager\Core\bin\Debug\pt\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\BillManager\Core\bin\Debug\ru\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\BillManager\Core\bin\Debug\sv\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\BillManager\Core\bin\Debug\tr\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\BillManager\Core\obj\Debug\Core.dll
+C:\Users\dn_z0224\Desktop\BillManager\Core\obj\Debug\Core.pdb
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache

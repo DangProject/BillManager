@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/pccg/cst/acs/case/aoaa/!svn/ver/225/src/Phase1/AOAA_1P0/UI%20Components/UI.Controls
+END
+TextPlaceables.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/pccg/cst/acs/case/aoaa/!svn/ver/217/src/Phase1/AOAA_1P0/UI%20Components/UI.Controls/TextPlaceables.cs
+END
+EditButton.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/pccg/cst/acs/case/aoaa/!svn/ver/217/src/Phase1/AOAA_1P0/UI%20Components/UI.Controls/EditButton.cs
+END
+UIControlsKey.pfx
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/pccg/cst/acs/case/aoaa/!svn/ver/217/src/Phase1/AOAA_1P0/UI%20Components/UI.Controls/UIControlsKey.pfx
+END
+MetroBackButton.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/pccg/cst/acs/case/aoaa/!svn/ver/217/src/Phase1/AOAA_1P0/UI%20Components/UI.Controls/MetroBackButton.cs
+END
+AudioOnOff.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/pccg/cst/acs/case/aoaa/!svn/ver/217/src/Phase1/AOAA_1P0/UI%20Components/UI.Controls/AudioOnOff.cs
+END
+OnOffSlider.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/pccg/cst/acs/case/aoaa/!svn/ver/217/src/Phase1/AOAA_1P0/UI%20Components/UI.Controls/OnOffSlider.cs
+END
+UI.Controls.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/pccg/cst/acs/case/aoaa/!svn/ver/217/src/Phase1/AOAA_1P0/UI%20Components/UI.Controls/UI.Controls.csproj
+END

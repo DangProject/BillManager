@@ -1,0 +1,4 @@
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Core\bin\Release\BillManager.Core.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Core\bin\Release\BillManager.Core.pdb
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Core\obj\Release\BillManager.Core.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Core\obj\Release\BillManager.Core.pdb

@@ -1,0 +1,12 @@
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\Core\bin\Release\Core.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\Core\bin\Release\Core.pdb
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\Core\bin\Release\EntityFramework.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\Core\bin\Release\EntityFramework.SqlServer.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\Core\bin\Release\Iesi.Collections.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\Core\bin\Release\NHibernate.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\Core\bin\Release\EntityFramework.xml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\Core\bin\Release\EntityFramework.SqlServer.xml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\Core\bin\Release\Iesi.Collections.xml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\Core\bin\Release\NHibernate.xml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\Core\obj\Release\Core.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\Core\obj\Release\Core.pdb

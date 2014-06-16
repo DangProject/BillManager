@@ -1,0 +1,9 @@
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\EFModelFirst1\bin\Release\EFModelFirst1.dll.config
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\EFModelFirst1\bin\Release\EFModelFirst1.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\EFModelFirst1\bin\Release\EFModelFirst1.pdb
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\EFModelFirst1\bin\Release\EntityFramework.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\EFModelFirst1\bin\Release\EntityFramework.SqlServer.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\EFModelFirst1\bin\Release\EntityFramework.xml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\EFModelFirst1\bin\Release\EntityFramework.SqlServer.xml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\EFModelFirst1\obj\Release\EFModelFirst1.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\EFModelFirst1\obj\Release\EFModelFirst1.pdb

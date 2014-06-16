@@ -1,0 +1,7 @@
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Business.Entities\bin\Release\BillManager.Business.Entities.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Business.Entities\bin\Release\BillManager.Business.Entities.pdb
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Business.Entities\bin\Release\BillManager.Core.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Business.Entities\bin\Release\BillManager.Core.pdb
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Business.Entities\obj\Release\BillManager.Business.Entities.csprojResolveAssemblyReference.cache
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Business.Entities\obj\Release\BillManager.Business.Entities.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Business.Entities\obj\Release\BillManager.Business.Entities.pdb

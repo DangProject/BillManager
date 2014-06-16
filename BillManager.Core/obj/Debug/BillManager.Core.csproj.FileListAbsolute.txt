@@ -1,0 +1,28 @@
+X:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Core\bin\Debug\BillManager.Core.dll
+X:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Core\bin\Debug\BillManager.Core.pdb
+X:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Core\obj\Debug\BillManager.Core.csprojResolveAssemblyReference.cache
+X:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Core\obj\Debug\BillManager.Core.dll
+X:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Core\obj\Debug\BillManager.Core.pdb
+E:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Core\bin\Debug\BillManager.Core.dll
+E:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Core\bin\Debug\BillManager.Core.pdb
+E:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Core\obj\Debug\BillManager.Core.csprojResolveAssemblyReference.cache
+E:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Core\obj\Debug\BillManager.Core.dll
+E:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Core\obj\Debug\BillManager.Core.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Core\bin\Debug\BillManager.Core.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Core\bin\Debug\BillManager.Core.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Core\obj\Debug\BillManager.Core.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Core\obj\Debug\BillManager.Core.pdb
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Core\bin\Debug\BillManager.Core.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Core\bin\Debug\BillManager.Core.pdb
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Core\obj\Debug\BillManager.Core.csprojResolveAssemblyReference.cache
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Core\obj\Debug\BillManager.Core.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Core\obj\Debug\BillManager.Core.pdb
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Core\bin\Debug\BillManager.Core.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Core\bin\Debug\BillManager.Core.pdb
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Core\obj\Debug\BillManager.Core.csprojResolveAssemblyReference.cache
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Core\obj\Debug\BillManager.Core.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Core\obj\Debug\BillManager.Core.pdb
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Core\bin\Debug\BillManager.Core.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Core\bin\Debug\BillManager.Core.pdb
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Core\obj\Debug\BillManager.Core.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Core\obj\Debug\BillManager.Core.pdb

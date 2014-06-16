@@ -1,0 +1,45 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:UI.Controls">
+
+    <Style TargetType="{x:Type local:MetroBackButton}">
+        <Setter Property="Cursor" Value="Hand" />
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Grid>
+                        <Ellipse x:Name="circle" Stroke="{TemplateBinding Foreground}" StrokeThickness="2" Fill="Transparent" 
+                                 Width="{TemplateBinding Width}" Height="{TemplateBinding Height}" />
+                        <Ellipse x:Name="innerCircle" Stroke ="Transparent" StrokeThickness="3" Fill="Transparent" 
+                                 Width="{TemplateBinding Width}" Height="{TemplateBinding Height}" />
+                        <!--Width="{Binding ArrowWidth, RelativeSource={RelativeSource AncestorType={x:Type local:MetroBackButton}}}"
+                              Height="{Binding ArrowHeight, RelativeSource={RelativeSource AncestorType={x:Type local:MetroBackButton}}}"-->
+                        <Path Margin="6"
+                              Stretch="Fill" Fill="{TemplateBinding Foreground}" 
+                              Data="F1 M 57,42L 57,34L 32.25,34L 42.25,24L 31.75,24L 17.75,38L 31.75,52L 42.25,52L 32.25,42L 57,42 Z "
+                              x:Name="arrow" HorizontalAlignment="Center" VerticalAlignment="Center"/>                        
+                        <ContentPresenter HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" Margin="{TemplateBinding Padding}" 
+                              VerticalAlignment="{TemplateBinding VerticalContentAlignment}" RecognizesAccessKey="True"/>
+                    </Grid>
+                    <ControlTemplate.Triggers>
+                        <Trigger Property="IsMouseOver" Value="true">
+                            <Setter TargetName="innerCircle" Property="Fill" Value="{DynamicResource IntelLightBlueBrush}" />
+                            <Setter TargetName="innerCircle" Property="Opacity" Value=".8" />
+                            <!--<Setter TargetName="circle" Property="Opacity" Value=".8" />-->
+                            <!--<Setter TargetName="arrow" Property="Opacity" Value=".8" />-->
+                        </Trigger>
+                        <Trigger Property="IsPressed" Value="true">
+                            <Setter TargetName="circle" Property="Stroke" Value="{DynamicResource IntelLightBlueBrush}" />
+                            <Setter TargetName="innerCircle" Property="Fill" Value="White" />
+                            <Setter TargetName="innerCircle" Property="Opacity" Value="1" />
+                            <Setter TargetName="arrow" Property="Fill" Value="{DynamicResource IntelLightBlueBrush}" />
+                            <!--<Setter TargetName="circle" Property="Stroke" Value="{DynamicResource IntelLightBlueBrush}" />
+                            <Setter TargetName="circle" Property="Fill" Value="{DynamicResource IntelLightBlueBrush}" />
+                            <Setter TargetName="arrow" Property="Fill" Value="White" />-->
+                        </Trigger>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+</ResourceDictionary>

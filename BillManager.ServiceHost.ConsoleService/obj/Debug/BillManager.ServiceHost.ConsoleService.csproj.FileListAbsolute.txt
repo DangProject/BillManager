@@ -1,0 +1,177 @@
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\BillManager.ServiceHost.ConsoleService.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\BillManager.ServiceHost.ConsoleService.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\BillManager.ServiceHost.ConsoleService.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\BillManager.Business.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\BillManager.Data.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\Core.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\BillManager.Business.Entities.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\NHibernate.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\Iesi.Collections.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\BillManager.Business.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\BillManager.Data.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\Core.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\BillManager.Business.Entities.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\NHibernate.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\Iesi.Collections.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.ServiceHost.ConsoleService\obj\Debug\BillManager.ServiceHost.ConsoleService.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.ServiceHost.ConsoleService\obj\Debug\BillManager.ServiceHost.ConsoleService.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.ServiceHost.ConsoleService\obj\Debug\BillManager.ServiceHost.ConsoleService.pdb
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\BillManager.ServiceHost.ConsoleService.exe.config
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.ServiceHost.ConsoleService\obj\Debug\BillManager.ServiceHost.ConsoleService.exe
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.ServiceHost.ConsoleService\obj\Debug\BillManager.ServiceHost.ConsoleService.pdb
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\BillManager.ServiceHost.ConsoleService.exe.config
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\BillManager.ServiceHost.ConsoleService.exe
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\BillManager.ServiceHost.ConsoleService.pdb
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\BillManager.Business.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\BillManager.Data.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\Core.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\EntityFramework.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\BillManager.Business.Entities.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\NHibernate.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\Iesi.Collections.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\BillManager.Business.pdb
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\BillManager.Data.pdb
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\Core.pdb
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\EntityFramework.xml
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\BillManager.Business.Entities.pdb
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\NHibernate.xml
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\Iesi.Collections.xml
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.ServiceHost.ConsoleService\obj\Debug\BillManager.ServiceHost.ConsoleService.csprojResolveAssemblyReference.cache
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.ServiceHost.ConsoleService\obj\Debug\BillManager.ServiceHost.ConsoleService.exe
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.ServiceHost.ConsoleService\obj\Debug\BillManager.ServiceHost.ConsoleService.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\FluentValidation.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\FluentValidation.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\FluentValidation.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\de\FluentValidation.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\es\FluentValidation.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\fr\FluentValidation.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\it\FluentValidation.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\ko\FluentValidation.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\nl\FluentValidation.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\pl\FluentValidation.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\pt\FluentValidation.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\ru\FluentValidation.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\sv\FluentValidation.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\tr\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\BillManager.ServiceHost.ConsoleService.exe.config
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\BillManager.ServiceHost.ConsoleService.exe
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\BillManager.ServiceHost.ConsoleService.pdb
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\BillManager.Business.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\BillManager.Data.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\Core.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\EntityFramework.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\BillManager.Business.Entities.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\NHibernate.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\FluentValidation.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\Iesi.Collections.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\BillManager.Business.pdb
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\BillManager.Data.pdb
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\Core.pdb
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\EntityFramework.xml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\BillManager.Business.Entities.pdb
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\NHibernate.xml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\FluentValidation.pdb
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\FluentValidation.xml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\Iesi.Collections.xml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\de\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\es\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\fr\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\it\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\ko\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\nl\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\pl\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\pt\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\ru\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\sv\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\tr\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.ServiceHost.ConsoleService\obj\Debug\BillManager.ServiceHost.ConsoleService.csprojResolveAssemblyReference.cache
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.ServiceHost.ConsoleService\obj\Debug\BillManager.ServiceHost.ConsoleService.exe
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.ServiceHost.ConsoleService\obj\Debug\BillManager.ServiceHost.ConsoleService.pdb
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\BillManager.ServiceHost.ConsoleService.exe.config
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\BillManager.ServiceHost.ConsoleService.exe
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\BillManager.ServiceHost.ConsoleService.pdb
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\BillManager.Business.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\BillManager.Data.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\Core.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\EntityFramework.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\EntityFramework.SqlServer.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\BillManager.Business.Entities.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\System.Windows.Interactivity.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\NHibernate.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\FluentValidation.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\Microsoft.Expression.Interactions.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\Iesi.Collections.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\BillManager.Business.pdb
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\BillManager.Data.pdb
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\Core.pdb
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\EntityFramework.xml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\EntityFramework.SqlServer.xml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\BillManager.Business.Entities.pdb
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\NHibernate.xml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\FluentValidation.pdb
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\FluentValidation.xml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\Iesi.Collections.xml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\de\FluentValidation.resources.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\es\FluentValidation.resources.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\fr\FluentValidation.resources.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\it\FluentValidation.resources.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\ko\FluentValidation.resources.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\nl\FluentValidation.resources.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\pl\FluentValidation.resources.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\pt\FluentValidation.resources.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\ru\FluentValidation.resources.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\sv\FluentValidation.resources.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\tr\FluentValidation.resources.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.ServiceHost.ConsoleService\obj\Debug\BillManager.ServiceHost.ConsoleService.csprojResolveAssemblyReference.cache
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.ServiceHost.ConsoleService\obj\Debug\BillManager.ServiceHost.ConsoleService.exe
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.ServiceHost.ConsoleService\obj\Debug\BillManager.ServiceHost.ConsoleService.pdb
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\BillManager.ServiceHost.ConsoleService.exe.config
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\BillManager.ServiceHost.ConsoleService.exe
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\BillManager.ServiceHost.ConsoleService.pdb
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\BillManager.Business.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\BillManager.Data.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\Core.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\EntityFramework.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\BillManager.Business.Entities.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\NHibernate.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\FluentValidation.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\Iesi.Collections.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\BillManager.Business.pdb
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\BillManager.Data.pdb
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\Core.pdb
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\EntityFramework.xml
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\BillManager.Business.Entities.pdb
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\NHibernate.xml
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\FluentValidation.pdb
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\FluentValidation.xml
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\Iesi.Collections.xml
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\de\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\es\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\fr\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\it\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\ko\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\nl\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\pl\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\pt\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\ru\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\sv\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.ServiceHost.ConsoleService\bin\Debug\tr\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.ServiceHost.ConsoleService\obj\Debug\BillManager.ServiceHost.ConsoleService.csprojResolveAssemblyReference.cache
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.ServiceHost.ConsoleService\obj\Debug\BillManager.ServiceHost.ConsoleService.exe
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.ServiceHost.ConsoleService\obj\Debug\BillManager.ServiceHost.ConsoleService.pdb

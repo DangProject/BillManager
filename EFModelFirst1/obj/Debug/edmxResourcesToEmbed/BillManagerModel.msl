@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BillManagerModelStoreContainer" CdmEntityContainer="BillManagerModelContainer">
+    <EntitySetMapping Name="Accounts">
+      <EntityTypeMapping TypeName="IsTypeOf(BillManagerModel.Account)">
+        <MappingFragment StoreEntitySet="Accounts">
+          <ScalarProperty Name="AccountId" ColumnName="AccountId" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="FavoriteLinks">
+      <EntityTypeMapping TypeName="IsTypeOf(BillManagerModel.FavoriteLink)">
+        <MappingFragment StoreEntitySet="FavoriteLinks">
+          <ScalarProperty Name="FavoriteLinkId" ColumnName="FavoriteLinkId" />
+          <ScalarProperty Name="Label" ColumnName="Label" />
+          <ScalarProperty Name="AccountId" ColumnName="AccountId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Bills">
+      <EntityTypeMapping TypeName="IsTypeOf(BillManagerModel.Bill)">
+        <MappingFragment StoreEntitySet="Bills">
+          <ScalarProperty Name="BillId" ColumnName="BillId" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="CommenceDate" ColumnName="CommenceDate" />
+          <ScalarProperty Name="BillKind" ColumnName="BillKind" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+          <ScalarProperty Name="BillFrequency" ColumnName="BillFrequency" />
+          <ScalarProperty Name="DayDueInMonth" ColumnName="DayDueInMonth" />
+          <ScalarProperty Name="AutopayIsEnrolled" ColumnName="AutopayIsEnrolled" />
+          <ScalarProperty Name="PhoneNum" ColumnName="PhoneNum" />
+          <ScalarProperty Name="InitialBalance" ColumnName="InitialBalance" />
+          <ScalarProperty Name="AccountNum" ColumnName="AccountNum" />
+          <ScalarProperty Name="AccountId" ColumnName="AccountId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Categories">
+      <EntityTypeMapping TypeName="IsTypeOf(BillManagerModel.Category)">
+        <MappingFragment StoreEntitySet="Categories">
+          <ScalarProperty Name="CategoryId" ColumnName="CategoryId" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="AccountId" ColumnName="AccountId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PayOptions">
+      <EntityTypeMapping TypeName="IsTypeOf(BillManagerModel.PayOption)">
+        <MappingFragment StoreEntitySet="PayOptions">
+          <ScalarProperty Name="PayOptionId" ColumnName="PayOptionId" />
+          <ScalarProperty Name="Label" ColumnName="Label" />
+          <ScalarProperty Name="IsPrimary" ColumnName="IsPrimary" />
+          <ScalarProperty Name="WebsiteWebsiteId" ColumnName="WebsiteWebsiteId" />
+          <ScalarProperty Name="BillId" ColumnName="BillId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Websites">
+      <EntityTypeMapping TypeName="IsTypeOf(BillManagerModel.Website)">
+        <MappingFragment StoreEntitySet="Websites">
+          <ScalarProperty Name="WebsiteId" ColumnName="WebsiteId" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="UrlString" ColumnName="UrlString" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="AccountId" ColumnName="AccountId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Payments">
+      <EntityTypeMapping TypeName="IsTypeOf(BillManagerModel.Payment)">
+        <MappingFragment StoreEntitySet="Payments">
+          <ScalarProperty Name="PaymentId" ColumnName="PaymentId" />
+          <ScalarProperty Name="Amount" ColumnName="Amount" />
+          <ScalarProperty Name="DatePaid" ColumnName="DatePaid" />
+          <ScalarProperty Name="PaymentMonthApplied" ColumnName="PaymentMonthApplied" />
+          <ScalarProperty Name="IsLate" ColumnName="IsLate" />
+          <ScalarProperty Name="Comment" ColumnName="Comment" />
+          <ScalarProperty Name="BillId" ColumnName="BillId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <AssociationSetMapping Name="BillCategory" TypeName="BillManagerModel.BillCategory" StoreEntitySet="Bills">
+      <EndProperty Name="Category">
+        <ScalarProperty Name="CategoryId" ColumnName="Category_CategoryId" />
+      </EndProperty>
+      <EndProperty Name="Bill">
+        <ScalarProperty Name="BillId" ColumnName="BillId" />
+      </EndProperty>
+      <Condition ColumnName="Category_CategoryId" IsNull="false" />
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="FavoriteLinkWebsite" TypeName="BillManagerModel.FavoriteLinkWebsite" StoreEntitySet="FavoriteLinks">
+      <EndProperty Name="Website">
+        <ScalarProperty Name="WebsiteId" ColumnName="Website_WebsiteId" />
+      </EndProperty>
+      <EndProperty Name="FavoriteLink">
+        <ScalarProperty Name="FavoriteLinkId" ColumnName="FavoriteLinkId" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="AccountWebsite" TypeName="BillManagerModel.AccountWebsite" StoreEntitySet="Websites">
+      <EndProperty Name="Account">
+        <ScalarProperty Name="AccountId" ColumnName="AccountWebsite_Website_AccountId" />
+      </EndProperty>
+      <EndProperty Name="Website">
+        <ScalarProperty Name="WebsiteId" ColumnName="WebsiteId" />
+      </EndProperty>
+    </AssociationSetMapping>
+  </EntityContainerMapping>
+</Mapping>

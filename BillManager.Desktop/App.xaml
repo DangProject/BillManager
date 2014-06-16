@@ -1,0 +1,21 @@
+﻿<Application x:Class="BillManager.Desktop.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <Application.Resources>
+        <ResourceDictionary>
+            <!-- WPF 4.0 workaround -->
+            <Style TargetType="{x:Type Rectangle}" />
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/FirstFloor.ModernUI;component/Assets/ModernUI.xaml" />
+                <ResourceDictionary Source="/FirstFloor.ModernUI;component/Assets/ModernUI.Light.xaml" />
+                <ResourceDictionary Source="/BillManager.Desktop;component/Resources/DefaultStyles.xaml" />
+                <ResourceDictionary Source="/BillManager.Desktop;component/Resources/BillManagerStyles.xaml" />
+                <ResourceDictionary Source="/BillManager.Desktop;component/Resources/ColorsAndBrushes.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/UI.Controls;component/ColorsAndBrushes/ColorsAndBrushes.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/UI.Controls;component/TemplatesAndStyles/TemplatesAndStyles.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Colours.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

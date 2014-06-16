@@ -1,0 +1,156 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:UI.Controls">
+
+    <Style TargetType="{x:Type local:OnOffSlider}">
+        <Setter Property="Foreground" Value="{DynamicResource {x:Static SystemColors.WindowTextBrushKey}}" />
+        <Setter Property="Background" Value="{DynamicResource {x:Static SystemColors.WindowBrushKey}}" />
+        <Setter Property="Cursor" Value="Hand" />
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type local:OnOffSlider}">
+                    <ControlTemplate.Resources>
+                        <Storyboard x:Key="OnChecking">
+                            <DoubleAnimationUsingKeyFrames BeginTime="00:00:00" Storyboard.TargetName="slider" 
+                                                               Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)">
+                                <SplineDoubleKeyFrame KeyTime="00:00:00.3000000" Value="28" />
+                            </DoubleAnimationUsingKeyFrames>
+                            <DoubleAnimationUsingKeyFrames BeginTime="00:00:00" Storyboard.TargetName="BackgroundOff" Storyboard.TargetProperty="(UIElement.Opacity)">
+                                <SplineDoubleKeyFrame KeyTime="00:00:01.0000000" Value="0"/>
+                            </DoubleAnimationUsingKeyFrames>
+                        </Storyboard>
+                        <Storyboard x:Key="OnUnchecking">
+                            <DoubleAnimationUsingKeyFrames BeginTime="00:00:00" Storyboard.TargetName="slider" 
+                                                               Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)">
+                                <SplineDoubleKeyFrame KeyTime="00:00:00.3000000" Value="0" />
+                            </DoubleAnimationUsingKeyFrames>
+                            <DoubleAnimationUsingKeyFrames BeginTime="00:00:00" Storyboard.TargetName="BackgroundOff" Storyboard.TargetProperty="(UIElement.Opacity)">
+                                <SplineDoubleKeyFrame KeyTime="00:00:01.0000000" Value="1"/>
+                            </DoubleAnimationUsingKeyFrames>
+                        </Storyboard>
+                        <!--<Storyboard x:Key="HighlightedOn">                            
+                            <DoubleAnimationUsingKeyFrames BeginTime="00:00:00" Storyboard.TargetName="borderHover" 
+                                                           Storyboard.TargetProperty="(UIElement.Opacity)">
+                                <SplineDoubleKeyFrame KeyTime="00:00:00.1000000" Value="1"/>
+                            </DoubleAnimationUsingKeyFrames>
+                        </Storyboard>
+                        <Storyboard x:Key="HighlightedOff">                            
+                            <DoubleAnimationUsingKeyFrames BeginTime="00:00:00" Storyboard.TargetName="borderHover" 
+                                                           Storyboard.TargetProperty="(UIElement.Opacity)">
+                                <SplineDoubleKeyFrame KeyTime="00:00:00.3000000" Value="0"/>
+                            </DoubleAnimationUsingKeyFrames>
+                        </Storyboard>-->
+                    </ControlTemplate.Resources>
+                    <DockPanel x:Name="dockPanel">
+                        <ContentPresenter SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" Content="{TemplateBinding Content}" 
+                                              ContentStringFormat="{TemplateBinding ContentStringFormat}" ContentTemplate="{TemplateBinding ContentTemplate}" 
+                                              RecognizesAccessKey="True" VerticalAlignment="Center" />
+                        <Grid>
+                            <Border x:Name="BackgroundOn" BorderBrush="{DynamicResource SliderOnBorderBrush}" BorderThickness="1"
+                                    CornerRadius="4" Height="{TemplateBinding Height}" Width="{TemplateBinding Width}"
+                                    Background="{DynamicResource SliderOnBackgroundBrush}" >
+                                <!--<Grid>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition />
+                                        <ColumnDefinition />
+                                    </Grid.ColumnDefinitions>
+                                    <TextBlock Text="ON" Grid.Column="0" FontWeight="Bold" Foreground="White" FontSize="{TemplateBinding FontSize}" 
+											Margin="0,0,0,0" HorizontalAlignment="Center" VerticalAlignment="Center" />
+                                    <TextBlock Text="OFF" Grid.Column="1" FontWeight="Bold" Foreground="White" FontSize="{TemplateBinding FontSize}" 
+											Margin="0,0,0,0" HorizontalAlignment="Center" VerticalAlignment="Center" />
+                                </Grid>-->
+                            </Border>
+                            <Border x:Name="BackgroundOff" BorderBrush="{DynamicResource SliderOffBorderBrush}" BorderThickness="1" 
+                                    CornerRadius="4" Height="{TemplateBinding Height}" Width="{TemplateBinding Width}"
+                                    Background="{DynamicResource SliderOffBackgroundBrush}">
+                                <!--Old border brush #FF939393-->
+                                <!--<Border.Background>
+                                    <LinearGradientBrush StartPoint="0,0" EndPoint="0,1">
+                                        <GradientStop Color="#FFB5B5B5" Offset="0" />
+                                        <GradientStop Color="#FFDEDEDE" Offset="0.1" />
+                                        <GradientStop Color="#FFEEEEEE" Offset="0.5" />
+                                        <GradientStop Color="#FFFAFAFA" Offset="0.5" />
+                                        <GradientStop Color="#FFFEFEFE" Offset="1" />
+                                    </LinearGradientBrush>
+                                </Border.Background>-->
+                                <!--<Grid>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition />
+                                        <ColumnDefinition />
+                                    </Grid.ColumnDefinitions>
+                                    <TextBlock x:Name="On" Text="ON" Grid.Column="0" FontWeight="Bold" Foreground="#FF7A7A7A" FontSize="{TemplateBinding FontSize}" 
+											Margin="0,0,0,0" HorizontalAlignment="Center" VerticalAlignment="Center" />
+                                    <TextBlock x:Name="Off" Text="OFF" Grid.Column="1" FontWeight="Bold" Foreground="#FF7A7A7A" FontSize="{TemplateBinding FontSize}" 
+										    Margin="0,0,0,0" HorizontalAlignment="Center" VerticalAlignment="Center" />
+                                </Grid>-->
+                            </Border>
+                            <Border BorderBrush="#FF939393" HorizontalAlignment="Left" x:Name="slider" Width="27" 
+                                    Height="15" BorderThickness="1" Margin=".5"
+                                    CornerRadius="4" RenderTransformOrigin="0.5,0.5">
+                                <!--{TemplateBinding Height} #FF0392C8
+                                        RenderTransformOrigin="0.5,0.5"-->
+                                <!--<Border Background="{DynamicResource HoverBrush}" Opacity="0" x:Name="borderHover"/>-->
+                                <Border.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleX="1" ScaleY="1" />
+                                        <SkewTransform AngleX="0" AngleY="0" />
+                                        <RotateTransform Angle="0" />
+                                        <TranslateTransform X="0" Y="0" />
+                                    </TransformGroup>
+                                </Border.RenderTransform>
+                                <Border.Background>
+                                    <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                                        <GradientStop Color="#FFF0F0F0" Offset="0" />
+                                        <GradientStop Color="#FFCDCDCD" Offset="0.1" />
+                                        <GradientStop Color="#FFFBFBFB" Offset="1" />
+                                    </LinearGradientBrush>
+                                    <!--<LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                                        <GradientStop Color="#FF0BBDFF" Offset="0" />
+                                        <GradientStop Color="#00AEEF" Offset="0.1" />
+                                        <GradientStop Color="#FF4FCFFF" Offset="1" />
+                                    </LinearGradientBrush>-->
+                                </Border.Background>
+                            </Border>
+                        </Grid>
+                    </DockPanel>
+                    <ControlTemplate.Triggers>
+                        <!--<Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Cursor" Value="Hand" />
+                        </Trigger>-->
+                        <!--<Trigger Property="IsMouseOver" Value="true">
+                            <Trigger.ExitActions>
+                                <BeginStoryboard Storyboard="{StaticResource HighlightedOff}" />
+                            </Trigger.ExitActions>
+                            <Trigger.EnterActions>
+                                <BeginStoryboard Storyboard="{StaticResource HighlightedOn}"/>
+                            </Trigger.EnterActions>                            
+                        </Trigger>-->
+                        <Trigger Property="IsChecked" Value="True">
+                            <Trigger.ExitActions>
+                                <BeginStoryboard Storyboard="{StaticResource OnUnchecking}" x:Name="OnUnchecking_BeginStoryboard" />
+                            </Trigger.ExitActions>
+                            <Trigger.EnterActions>
+                                <BeginStoryboard Storyboard="{StaticResource OnChecking}" x:Name="OnChecking_BeginStoryboard" />
+                            </Trigger.EnterActions>
+                            <!--<Setter TargetName="On" Property="Foreground" Value="White" />
+                            <Setter TargetName="Off" Property="Foreground" Value="White" />-->
+                        </Trigger>
+                        <Trigger Property="IsEnabled" Value="False">
+                            <Setter TargetName="slider" Property="Background">
+                                <Setter.Value>
+                                    <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                                        <GradientStop Color="#FFF0F0F0" Offset="0" />
+                                        <GradientStop Color="#FFCDCDCD" Offset="0.1" />
+                                        <GradientStop Color="#FFFBFBFB" Offset="1" />
+                                    </LinearGradientBrush>
+                                </Setter.Value>
+                            </Setter>
+                            <Setter TargetName="slider" Property="BorderBrush" Value="#FF939393" />
+                        </Trigger>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+</ResourceDictionary>

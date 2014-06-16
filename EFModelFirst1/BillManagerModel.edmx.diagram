@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="21897959b1934da59c848ca943da4d6c" Name="Diagram1" >
+        <EntityTypeShape EntityType="BillManagerModel.Account" Width="1.5" PointX="0.5" PointY="0.5" />
+        <EntityTypeShape EntityType="BillManagerModel.FavoriteLink" Width="1.5" PointX="0.5" PointY="4.5" />
+        <EntityTypeShape EntityType="BillManagerModel.Bill" Width="1.5" PointX="2.625" PointY="0.5" />
+        <EntityTypeShape EntityType="BillManagerModel.Category" Width="1.5" PointX="4.75" PointY="0.5" />
+        <AssociationConnector Association="BillManagerModel.BillCategory" />
+        <EntityTypeShape EntityType="BillManagerModel.PayOption" Width="1.5" PointX="5" PointY="5" />
+        <EntityTypeShape EntityType="BillManagerModel.Website" Width="1.5" PointX="2.625" PointY="4.75" />
+        <AssociationConnector Association="BillManagerModel.FavoriteLinkWebsite" />
+        <EntityTypeShape EntityType="BillManagerModel.Payment" Width="1.5" PointX="6.75" PointY="2.5" />
+        <AssociationConnector Association="BillManagerModel.BillPayment" />
+        <AssociationConnector Association="BillManagerModel.AccountWebsite" />
+        <AssociationConnector Association="BillManagerModel.AccountBill" />
+        <AssociationConnector Association="BillManagerModel.AccountCategory" />
+        <AssociationConnector Association="BillManagerModel.AccountFavoriteLink" />
+        <AssociationConnector Association="BillManagerModel.PayOptionWebsite" />
+        <AssociationConnector Association="BillManagerModel.BillPayOption" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

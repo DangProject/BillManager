@@ -1,0 +1,924 @@
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\BillManager.Desktop.exe.config
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\BillManager.Desktop.exe
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\BillManager.Desktop.pdb
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop.csprojResolveAssemblyReference.cache
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\MainWindow.baml
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\MainWindow.g.cs
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\App.g.cs
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop_MarkupCompile.cache
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop.g.resources
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop.Properties.Resources.resources
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop.csproj.GenerateResource.Cache
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop.exe
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop.pdb
+X:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\BillManager.Desktop.exe.config
+X:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop.exe
+X:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop.pdb
+X:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\BillManager.Desktop.exe
+X:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\BillManager.Desktop.pdb
+X:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop.csprojResolveAssemblyReference.cache
+X:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\MainWindow.baml
+X:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\MainWindow.g.cs
+X:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\App.g.cs
+X:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop_MarkupCompile.cache
+X:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop.g.resources
+X:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop.Properties.Resources.resources
+X:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop.csproj.GenerateResource.Cache
+W:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\BillManager.Desktop.exe.config
+W:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop.exe
+W:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop.pdb
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Expression.Interactions.dll
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Prism.dll
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Unity.dll
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\System.Windows.Interactivity.dll
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Prism.xml
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Prism.Interactivity.xml
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.xml
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Unity.xml
+I:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+E:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\BillManager.Desktop.exe.config
+E:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop.exe
+E:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop.pdb
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\BillManager.Desktop.exe.config
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop.exe
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop.pdb
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop.csprojResolveAssemblyReference.cache
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\Shell.baml
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\Shell.g.cs
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\App.g.cs
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop_MarkupCompile.cache
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\BillManager.Desktop.exe
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\BillManager.Desktop.pdb
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Expression.Interactions.dll
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Prism.dll
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Unity.dll
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\System.Windows.Interactivity.dll
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Prism.xml
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Prism.Interactivity.xml
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.xml
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Unity.xml
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop.g.resources
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop.Properties.Resources.resources
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\BillManager.Desktop.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\BillManager.Desktop.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\BillManager.Desktop.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\BillManager.Client.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\Core.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\MahApps.Metro.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Prism.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\Moq.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.Data.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.Input.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.Navigation.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.RichTextBoxUI.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\NHibernate.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Data.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Documents.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.RibbonView.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.ImageEditor.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\Iesi.Collections.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\BillManager.Client.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\Core.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Prism.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Prism.Interactivity.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\Moq.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.Data.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.Data.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.Input.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.Input.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.Navigation.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.Navigation.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.RichTextBoxUI.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.RichTextBoxUI.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\NHibernate.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Data.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Data.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Documents.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Documents.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.RibbonView.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.RibbonView.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.ImageEditor.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.ImageEditor.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\Iesi.Collections.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\obj\Debug\Resources\DefaultStyles.baml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\obj\Debug\Views\BillContentView.baml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\obj\Debug\Views\BillListView.baml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\obj\Debug\Views\BreadCrumbView.baml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\obj\Debug\Views\LogonView.baml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\obj\Debug\Views\ToolsView.baml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\obj\Debug\Views\BillContentView.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\obj\Debug\Views\BillListView.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\obj\Debug\Views\BreadCrumbView.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\obj\Debug\Views\LogonView.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\obj\Debug\Views\MainShell.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\obj\Debug\Views\ToolsView.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\obj\Debug\Shell.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\obj\Debug\App.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop_MarkupCompile.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop_MarkupCompile.lref
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\obj\Debug\Views\MainShell.baml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\obj\Debug\Shell.baml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop.g.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop.pdb
+C:\Users\Dang\Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\BillManager.Desktop.exe.config
+C:\Users\Dang\Documents\Visual Studio 2012\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop.exe
+C:\Users\Dang\Documents\Visual Studio 2012\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop.pdb
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\BillManager.Desktop.exe.config
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\BillManager.Desktop.exe
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\BillManager.Desktop.pdb
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\BillManager.Client.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\Core.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\EntityFramework.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\FirstFloor.ModernUI.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\MahApps.Metro.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Prism.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\Moq.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\NHibernate.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\Iesi.Collections.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\BillManager.Client.pdb
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\Core.pdb
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\EntityFramework.xml
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Prism.xml
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Prism.Interactivity.xml
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.xml
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\Moq.xml
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\NHibernate.xml
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\Iesi.Collections.xml
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop.csprojResolveAssemblyReference.cache
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\obj\Debug\Resources\BillManagerStyles.baml
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\obj\Debug\Resources\DefaultStyles.baml
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\obj\Debug\Views\AddBillView.baml
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\obj\Debug\Views\BillContentView.baml
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\obj\Debug\Views\BillListView.baml
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\obj\Debug\Views\BreadCrumbView.baml
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\obj\Debug\Views\LogonView.baml
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\obj\Debug\Views\ToolsView.baml
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\obj\Debug\App.baml
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\obj\Debug\Views\AddBillView.g.cs
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\obj\Debug\Views\AddBillWindow.g.cs
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\obj\Debug\Views\BillContentView.g.cs
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\obj\Debug\Views\BillListView.g.cs
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\obj\Debug\Views\BreadCrumbView.g.cs
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\obj\Debug\Views\LogonView.g.cs
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\obj\Debug\Views\MainShell.g.cs
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\obj\Debug\Views\ToolsView.g.cs
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\obj\Debug\Shell.g.cs
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\obj\Debug\App.g.cs
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop_MarkupCompile.cache
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop_MarkupCompile.lref
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\obj\Debug\Views\AddBillWindow.baml
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\obj\Debug\Views\MainShell.baml
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\obj\Debug\Shell.baml
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop.g.resources
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop.Properties.Resources.resources
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop.csproj.GenerateResource.Cache
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop.exe
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop.pdb
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.Data.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.Input.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.Navigation.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.RichTextBoxUI.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Data.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Documents.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.RibbonView.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.ImageEditor.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.pdb
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.xml
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.Data.pdb
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.Data.xml
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.Input.pdb
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.Input.xml
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.Navigation.pdb
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.Navigation.xml
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.RichTextBoxUI.pdb
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.RichTextBoxUI.xml
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Data.pdb
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Data.xml
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Documents.pdb
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Documents.xml
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.RibbonView.pdb
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.RibbonView.xml
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.ImageEditor.pdb
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.ImageEditor.xml
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\obj\Debug\Views\Demo.baml
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\obj\Debug\Views\Demo.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\obj\Debug\Resources\ColorsAndBrushes.baml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\obj\Debug\Views\Demo.baml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\obj\Debug\Views\NoBillSelectedView.baml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\obj\Debug\App.baml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\obj\Debug\Views\Demo.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\obj\Debug\Views\NoBillSelectedView.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\FirstFloor.ModernUI.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\UI.Controls.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\UI.Controls.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\obj\Debug\Resources\BillManagerStyles.baml
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\BillManager.Client.dll
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Core.dll
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\EntityFramework.dll
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\EntityFramework.SqlServer.dll
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\FirstFloor.ModernUI.dll
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\MahApps.Metro.dll
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Windows.Shell.dll
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Moq.dll
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.Data.dll
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.dll
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.Input.dll
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.Navigation.dll
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.RichTextBoxUI.dll
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\UI.Controls.dll
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\NHibernate.dll
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Data.dll
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Documents.dll
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.RibbonView.dll
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.ImageEditor.dll
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Iesi.Collections.dll
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\BillManager.Client.pdb
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Core.pdb
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\UI.Controls.pdb
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\EntityFramework.xml
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\EntityFramework.SqlServer.xml
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Moq.xml
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.pdb
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.xml
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.Data.pdb
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.Data.xml
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.Input.pdb
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.Input.xml
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.Navigation.pdb
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.Navigation.xml
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.RichTextBoxUI.pdb
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.RichTextBoxUI.xml
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\NHibernate.xml
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Data.pdb
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Data.xml
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Documents.pdb
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Documents.xml
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.RibbonView.pdb
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.RibbonView.xml
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.ImageEditor.pdb
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.ImageEditor.xml
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Iesi.Collections.xml
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\Resources\ColorsAndBrushes.baml
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\Resources\DefaultStyles.baml
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\Views\AddBillView.baml
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\Views\BreadCrumbView.baml
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\Views\Demo.baml
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\Views\LogonView.baml
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\Views\NoBillSelectedView.baml
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\Views\ToolsView.baml
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\App.baml
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\Views\AddBillView.g.cs
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\Views\BillContentView.g.cs
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\Views\BillListView.g.cs
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\Views\BreadCrumbView.g.cs
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\Views\Demo.g.cs
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\Views\LogonView.g.cs
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\Views\MainShell.g.cs
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\Views\NoBillSelectedView.g.cs
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\Views\ToolsView.g.cs
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop_MarkupCompile.lref
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\Resources\BillManagerStyles.baml
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\Views\BillContentView.baml
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\Views\BillListView.baml
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\Views\MainShell.baml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\obj\Debug\TestStyle.baml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\FluentValidation.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\FluentValidation.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\FluentValidation.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\de\FluentValidation.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\es\FluentValidation.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\fr\FluentValidation.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\it\FluentValidation.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\ko\FluentValidation.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\nl\FluentValidation.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\pl\FluentValidation.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\pt\FluentValidation.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\ru\FluentValidation.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\sv\FluentValidation.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\tr\FluentValidation.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\obj\Debug\Views\CreateCategoryView.baml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\obj\Debug\Views\ViewContainerWindow.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\obj\Debug\Views\CreateCategoryView.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\obj\Debug\Views\ViewContainerWindow.baml
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\FluentValidation.dll
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\FluentValidation.pdb
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\FluentValidation.xml
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\de\FluentValidation.resources.dll
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\es\FluentValidation.resources.dll
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\fr\FluentValidation.resources.dll
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\it\FluentValidation.resources.dll
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\ko\FluentValidation.resources.dll
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\nl\FluentValidation.resources.dll
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\pl\FluentValidation.resources.dll
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\pt\FluentValidation.resources.dll
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\ru\FluentValidation.resources.dll
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\sv\FluentValidation.resources.dll
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\tr\FluentValidation.resources.dll
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\TestStyle.baml
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\Views\CreateCategoryView.baml
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\Views\ViewContainerWindow.g.cs
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\Views\CreateCategoryView.g.cs
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\Views\ViewContainerWindow.baml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\BillManager.Desktop.exe.config
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop.exe
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop.pdb
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\BillManager.Desktop.exe
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\BillManager.Desktop.pdb
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\BillManager.Client.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\Core.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\EntityFramework.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\FirstFloor.ModernUI.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\FluentValidation.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\MahApps.Metro.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Prism.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\Moq.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.Data.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.Input.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.Navigation.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.RichTextBoxUI.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\UI.Controls.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\NHibernate.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Data.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Documents.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.RibbonView.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.ImageEditor.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\Iesi.Collections.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\BillManager.Client.pdb
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\Core.pdb
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\UI.Controls.pdb
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\EntityFramework.xml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\FluentValidation.pdb
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\FluentValidation.xml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Prism.xml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Prism.Interactivity.xml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.xml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\Moq.xml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.pdb
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.xml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.Data.pdb
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.Data.xml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.Input.pdb
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.Input.xml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.Navigation.pdb
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.Navigation.xml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.RichTextBoxUI.pdb
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.RichTextBoxUI.xml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\NHibernate.xml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Data.pdb
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Data.xml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Documents.pdb
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Documents.xml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.RibbonView.pdb
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.RibbonView.xml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.ImageEditor.pdb
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.ImageEditor.xml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\Iesi.Collections.xml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\de\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\es\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\fr\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\it\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\ko\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\nl\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\pl\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\pt\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\ru\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\sv\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\tr\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop.csprojResolveAssemblyReference.cache
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\obj\Debug\Resources\ColorsAndBrushes.baml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\obj\Debug\Resources\DefaultStyles.baml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\obj\Debug\TestStyle.baml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\obj\Debug\Views\CreateWebsiteView.baml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\obj\Debug\Views\BreadCrumbView.baml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\obj\Debug\Views\CreateCategoryView.baml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\obj\Debug\Views\Demo.baml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\obj\Debug\Views\LogonView.baml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\obj\Debug\Views\NoBillSelectedView.baml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\obj\Debug\Views\ToolsView.baml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\obj\Debug\App.baml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\obj\Debug\Views\AddBillView.g.cs
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\obj\Debug\Views\CreateWebsiteView.g.cs
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\obj\Debug\Views\ViewContainerWindow.g.cs
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\obj\Debug\Views\BillContentView.g.cs
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\obj\Debug\Views\BillListView.g.cs
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\obj\Debug\Views\BreadCrumbView.g.cs
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\obj\Debug\Views\CreateCategoryView.g.cs
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\obj\Debug\Views\Demo.g.cs
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\obj\Debug\Views\LogonView.g.cs
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\obj\Debug\Views\MainShell.g.cs
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\obj\Debug\Views\NoBillSelectedView.g.cs
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\obj\Debug\Views\ToolsView.g.cs
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\obj\Debug\Shell.g.cs
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\obj\Debug\App.g.cs
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop_MarkupCompile.cache
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop_MarkupCompile.lref
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\obj\Debug\Resources\BillManagerStyles.baml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\obj\Debug\Views\AddBillView.baml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\obj\Debug\Views\ViewContainerWindow.baml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\obj\Debug\Views\BillContentView.baml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\obj\Debug\Views\BillListView.baml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\obj\Debug\Views\MainShell.baml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\obj\Debug\Shell.baml
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop.g.resources
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop.Properties.Resources.resources
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\obj\Debug\Views\CreateWebsiteView.baml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\obj\Debug\Views\CreateWebsiteView.g.cs
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\BillManager.Desktop.exe.config
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\BillManager.Desktop.exe
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\BillManager.Desktop.pdb
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\BillManager.Client.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Core.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\EntityFramework.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\EntityFramework.SqlServer.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\FirstFloor.ModernUI.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\FluentValidation.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\MahApps.Metro.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Expression.Interactions.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Prism.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Unity.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Windows.Shell.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Moq.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\System.Windows.Interactivity.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.Data.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.Input.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.Navigation.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.RichTextBoxUI.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\UI.Controls.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\NHibernate.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Data.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Documents.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.RibbonView.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.ImageEditor.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Iesi.Collections.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\BillManager.Client.pdb
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Core.pdb
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\UI.Controls.pdb
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\EntityFramework.xml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\EntityFramework.SqlServer.xml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\FluentValidation.pdb
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\FluentValidation.xml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Prism.xml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Prism.Interactivity.xml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.xml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Unity.xml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Moq.xml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.pdb
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.xml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.Data.pdb
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.Data.xml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.Input.pdb
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.Input.xml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.Navigation.pdb
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.Navigation.xml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.RichTextBoxUI.pdb
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.RichTextBoxUI.xml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\NHibernate.xml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Data.pdb
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Data.xml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Documents.pdb
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Documents.xml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.RibbonView.pdb
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.RibbonView.xml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.ImageEditor.pdb
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.ImageEditor.xml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\Iesi.Collections.xml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\de\FluentValidation.resources.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\es\FluentValidation.resources.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\fr\FluentValidation.resources.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\it\FluentValidation.resources.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\ko\FluentValidation.resources.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\nl\FluentValidation.resources.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\pl\FluentValidation.resources.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\pt\FluentValidation.resources.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\ru\FluentValidation.resources.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\sv\FluentValidation.resources.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\tr\FluentValidation.resources.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop.csprojResolveAssemblyReference.cache
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\Resources\ColorsAndBrushes.baml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\Resources\DefaultStyles.baml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\TestStyle.baml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\Views\CreateWebsiteView.baml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\Views\BreadCrumbView.baml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\Views\CreateCategoryView.baml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\Views\Demo.baml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\Views\LogonView.baml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\Views\NoBillSelectedView.baml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\Views\ToolsView.baml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\App.baml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\Views\AddBillView.g.cs
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\Views\CreateWebsiteView.g.cs
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\Views\ViewContainerWindow.g.cs
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\Views\BillContentView.g.cs
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\Views\BillListView.g.cs
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\Views\BreadCrumbView.g.cs
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\Views\CreateCategoryView.g.cs
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\Views\Demo.g.cs
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\Views\LogonView.g.cs
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\Views\MainShell.g.cs
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\Views\NoBillSelectedView.g.cs
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\Views\ToolsView.g.cs
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\Shell.g.cs
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\App.g.cs
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\GeneratedInternalTypeHelper.g.cs
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop_MarkupCompile.cache
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop_MarkupCompile.lref
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\Resources\BillManagerStyles.baml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\Views\AddBillView.baml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\Views\ViewContainerWindow.baml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\Views\BillContentView.baml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\Views\BillListView.baml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\Views\MainShell.baml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\Shell.baml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop.g.resources
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop.Properties.Resources.resources
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop.csproj.GenerateResource.Cache
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop.exe
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop.pdb
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\BillManager.Desktop.exe.config
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop.exe
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop.pdb
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\BillManager.Desktop.exe
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\BillManager.Desktop.pdb
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\BillManager.Client.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\Core.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\EntityFramework.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\FirstFloor.ModernUI.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\FluentValidation.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\MahApps.Metro.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Prism.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\Moq.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.Data.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.Input.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.Navigation.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.RichTextBoxUI.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\UI.Controls.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\NHibernate.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Data.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Documents.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.RibbonView.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.ImageEditor.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\Iesi.Collections.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\BillManager.Client.pdb
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\Core.pdb
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\UI.Controls.pdb
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\EntityFramework.xml
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\FluentValidation.pdb
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\FluentValidation.xml
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Prism.xml
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Prism.Interactivity.xml
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.xml
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\Moq.xml
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.pdb
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.xml
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.Data.pdb
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.Data.xml
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.Input.pdb
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.Input.xml
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.Navigation.pdb
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.Navigation.xml
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.RichTextBoxUI.pdb
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.RichTextBoxUI.xml
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\NHibernate.xml
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Data.pdb
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Data.xml
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Documents.pdb
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Documents.xml
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.RibbonView.pdb
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.RibbonView.xml
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.ImageEditor.pdb
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.ImageEditor.xml
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\Iesi.Collections.xml
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\de\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\es\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\fr\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\it\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\ko\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\nl\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\pl\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\pt\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\ru\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\sv\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\tr\FluentValidation.resources.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop.csprojResolveAssemblyReference.cache
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\obj\Debug\Resources\ColorsAndBrushes.baml
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\obj\Debug\Resources\DefaultStyles.baml
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\obj\Debug\TestStyle.baml
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\obj\Debug\Views\CreateWebsiteView.baml
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\obj\Debug\Views\BreadCrumbView.baml
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\obj\Debug\Views\CreateCategoryView.baml
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\obj\Debug\Views\Demo.baml
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\obj\Debug\Views\LogonView.baml
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\obj\Debug\Views\NoBillSelectedView.baml
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\obj\Debug\Views\ToolsView.baml
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\obj\Debug\App.baml
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\obj\Debug\Views\AddBillView.g.cs
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\obj\Debug\Views\CreateWebsiteView.g.cs
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\obj\Debug\Views\ViewContainerWindow.g.cs
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\obj\Debug\Views\BillContentView.g.cs
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\obj\Debug\Views\BillListView.g.cs
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\obj\Debug\Views\BreadCrumbView.g.cs
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\obj\Debug\Views\CreateCategoryView.g.cs
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\obj\Debug\Views\Demo.g.cs
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\obj\Debug\Views\LogonView.g.cs
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\obj\Debug\Views\MainShell.g.cs
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\obj\Debug\Views\NoBillSelectedView.g.cs
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\obj\Debug\Views\ToolsView.g.cs
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\obj\Debug\Shell.g.cs
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\obj\Debug\App.g.cs
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop_MarkupCompile.cache
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop_MarkupCompile.lref
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\obj\Debug\Resources\BillManagerStyles.baml
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\obj\Debug\Views\AddBillView.baml
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\obj\Debug\Views\ViewContainerWindow.baml
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\obj\Debug\Views\BillContentView.baml
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\obj\Debug\Views\BillListView.baml
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\obj\Debug\Views\MainShell.baml
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\obj\Debug\Shell.baml
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop.g.resources
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop.Properties.Resources.resources
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop.csproj.GenerateResource.Cache
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\BillManager.Business.Entities.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\BillManager.Business.Entities.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\BillManager.Business.Entities.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\BillManager.Business.Entities.pdb
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\BillManager.Business.Entities.dll
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\BillManager.Business.Entities.pdb
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\Views\CreateWebsiteView.baml
+G:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\Views\CreateWebsiteView.g.cs
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\AutoMapper.Net4.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\AutoMapper.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\bin\Debug\AutoMapper.xml
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop_Content.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop_Content.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\AutoMapper.Net4.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\AutoMapper.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\bin\Debug\AutoMapper.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\obj\Debug\Views\CreateBillView.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\obj\Debug\Views\CreateBillView.baml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\obj\Debug\Views\BillSummaryView.baml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Desktop\obj\Debug\Views\BillSummaryView.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\BillManager.Desktop.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\AutoMapper.Net4.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\BillManager.Desktop.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\BillManager.Desktop.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\AutoMapper.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\BillManager.Business.Entities.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\BillManager.Client.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\Core.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\FirstFloor.ModernUI.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\FluentValidation.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\MahApps.Metro.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Prism.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\Moq.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.Data.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.Input.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.Navigation.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.RichTextBoxUI.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\UI.Controls.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\NHibernate.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Data.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Documents.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.RibbonView.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.ImageEditor.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\Iesi.Collections.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\BillManager.Business.Entities.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\BillManager.Client.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\Core.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\UI.Controls.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\AutoMapper.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\FluentValidation.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\FluentValidation.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Prism.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Prism.Interactivity.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\Moq.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.Data.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.Data.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.Input.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.Input.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.Navigation.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.Navigation.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.RichTextBoxUI.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.RichTextBoxUI.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\NHibernate.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Data.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Data.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Documents.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Documents.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.RibbonView.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.RibbonView.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.ImageEditor.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\Telerik.Windows.Controls.ImageEditor.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\Iesi.Collections.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\de\FluentValidation.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\es\FluentValidation.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\fr\FluentValidation.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\it\FluentValidation.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\ko\FluentValidation.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\nl\FluentValidation.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\pl\FluentValidation.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\pt\FluentValidation.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\ru\FluentValidation.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\sv\FluentValidation.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\tr\FluentValidation.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\obj\Debug\Resources\ColorsAndBrushes.baml
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\obj\Debug\Resources\DefaultStyles.baml
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\obj\Debug\TestStyle.baml
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\obj\Debug\Views\CreateWebsiteView.baml
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\obj\Debug\Views\BreadCrumbView.baml
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\obj\Debug\Views\CreateCategoryView.baml
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\obj\Debug\Views\Demo.baml
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\obj\Debug\Views\LogonView.baml
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\obj\Debug\Views\NoBillSelectedView.baml
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\obj\Debug\Views\ToolsView.baml
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\obj\Debug\App.baml
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\obj\Debug\Views\BillSummaryView.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\obj\Debug\Views\CreateBillView.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\obj\Debug\Views\CreateWebsiteView.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\obj\Debug\Views\ViewContainerWindow.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\obj\Debug\Views\BillContentView.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\obj\Debug\Views\BillListView.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\obj\Debug\Views\BreadCrumbView.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\obj\Debug\Views\CreateCategoryView.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\obj\Debug\Views\Demo.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\obj\Debug\Views\LogonView.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\obj\Debug\Views\MainShell.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\obj\Debug\Views\NoBillSelectedView.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\obj\Debug\Views\ToolsView.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\obj\Debug\Shell.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\obj\Debug\App.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop_Content.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop_MarkupCompile.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop_MarkupCompile.lref
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\obj\Debug\Resources\BillManagerStyles.baml
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\obj\Debug\Views\BillSummaryView.baml
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\obj\Debug\Views\CreateBillView.baml
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\obj\Debug\Views\ViewContainerWindow.baml
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\obj\Debug\Views\BillContentView.baml
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\obj\Debug\Views\BillListView.baml
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\obj\Debug\Views\MainShell.baml
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\obj\Debug\Shell.baml
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop.g.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\GitHub\BillManager\BillManager.Desktop\obj\Debug\BillManager.Desktop.csproj.GenerateResource.Cache

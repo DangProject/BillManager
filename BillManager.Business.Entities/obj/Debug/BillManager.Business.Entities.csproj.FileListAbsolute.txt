@@ -1,0 +1,22 @@
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Business.Entities\bin\Debug\BillManager.Business.Entities.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Business.Entities\bin\Debug\BillManager.Business.Entities.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Business.Entities\obj\Debug\BillManager.Business.Entities.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BillManager\BillManager.Business.Entities\obj\Debug\BillManager.Business.Entities.pdb
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Business.Entities\bin\Debug\BillManager.Business.Entities.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Business.Entities\bin\Debug\BillManager.Business.Entities.pdb
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Business.Entities\obj\Debug\BillManager.Business.Entities.dll
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Business.Entities\obj\Debug\BillManager.Business.Entities.pdb
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Business.Entities\bin\Debug\BillManager.Business.Entities.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Business.Entities\bin\Debug\BillManager.Business.Entities.pdb
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Business.Entities\obj\Debug\BillManager.Business.Entities.csprojResolveAssemblyReference.cache
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Business.Entities\obj\Debug\BillManager.Business.Entities.dll
+C:\Users\dn_z0224\Desktop\GitHub\BillManager\BillManager.Business.Entities\obj\Debug\BillManager.Business.Entities.pdb
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Business.Entities\bin\Debug\BillManager.Business.Entities.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Business.Entities\bin\Debug\BillManager.Business.Entities.pdb
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Business.Entities\obj\Debug\BillManager.Business.Entities.dll
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Business.Entities\obj\Debug\BillManager.Business.Entities.pdb
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Business.Entities\bin\Debug\BillManager.Business.Entities.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Business.Entities\bin\Debug\BillManager.Business.Entities.pdb
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Business.Entities\obj\Debug\BillManager.Business.Entities.dll
+C:\Users\dn_z0224\Desktop\BillManager\BillManager.Business.Entities\obj\Debug\BillManager.Business.Entities.pdb
+J:\Mac Files\Desktop\Work\Projects\Home\BillManager\BillManager.Business.Entities\obj\Debug\BillManager.Business.Entities.csprojResolveAssemblyReference.cache

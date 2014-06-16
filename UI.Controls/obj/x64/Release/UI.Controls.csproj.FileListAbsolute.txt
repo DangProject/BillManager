@@ -1,0 +1,37 @@
+I:\Mac Files\Desktop\Work\Intel\AOAA_1P0\x64\Release\UI.Controls.dll
+I:\Mac Files\Desktop\Work\Intel\AOAA_1P0\x64\Release\UI.Controls.pdb
+I:\Mac Files\Desktop\Work\Intel\AOAA_1P0\UI Components\UI.Controls\obj\x64\Release\UI.Controls.csprojResolveAssemblyReference.cache
+I:\Mac Files\Desktop\Work\Intel\AOAA_1P0\UI Components\UI.Controls\obj\x64\Release\TemplatesAndStyles\HyperlinkButtonStyle.baml
+I:\Mac Files\Desktop\Work\Intel\AOAA_1P0\UI Components\UI.Controls\obj\x64\Release\TemplatesAndStyles\MaxRestoreStyle.baml
+I:\Mac Files\Desktop\Work\Intel\AOAA_1P0\UI Components\UI.Controls\obj\x64\Release\TemplatesAndStyles\MetroButtonStyle.baml
+I:\Mac Files\Desktop\Work\Intel\AOAA_1P0\UI Components\UI.Controls\obj\x64\Release\TemplatesAndStyles\MetroComboBoxStyle.baml
+I:\Mac Files\Desktop\Work\Intel\AOAA_1P0\UI Components\UI.Controls\obj\x64\Release\TemplatesAndStyles\MetroScrollBarStyle.baml
+I:\Mac Files\Desktop\Work\Intel\AOAA_1P0\UI Components\UI.Controls\obj\x64\Release\TemplatesAndStyles\TemplatesAndStyles.baml
+I:\Mac Files\Desktop\Work\Intel\AOAA_1P0\UI Components\UI.Controls\obj\x64\Release\TemplatesAndStyles\MetroCheckBoxStyle.baml
+I:\Mac Files\Desktop\Work\Intel\AOAA_1P0\UI Components\UI.Controls\obj\x64\Release\Themes\Generic.baml
+I:\Mac Files\Desktop\Work\Intel\AOAA_1P0\UI Components\UI.Controls\obj\x64\Release\GeneratedInternalTypeHelper.g.cs
+I:\Mac Files\Desktop\Work\Intel\AOAA_1P0\UI Components\UI.Controls\obj\x64\Release\UI.Controls_MarkupCompile.cache
+I:\Mac Files\Desktop\Work\Intel\AOAA_1P0\UI Components\UI.Controls\obj\x64\Release\UI.Controls_MarkupCompile.lref
+I:\Mac Files\Desktop\Work\Intel\AOAA_1P0\UI Components\UI.Controls\obj\x64\Release\Themes\MetroBackButton.baml
+I:\Mac Files\Desktop\Work\Intel\AOAA_1P0\UI Components\UI.Controls\obj\x64\Release\Themes\AudioOnOff.baml
+I:\Mac Files\Desktop\Work\Intel\AOAA_1P0\UI Components\UI.Controls\obj\x64\Release\Themes\EditButton.baml
+I:\Mac Files\Desktop\Work\Intel\AOAA_1P0\UI Components\UI.Controls\obj\x64\Release\Themes\OnOffSlider.baml
+I:\Mac Files\Desktop\Work\Intel\AOAA_1P0\UI Components\UI.Controls\obj\x64\Release\UI.Controls.g.resources
+I:\Mac Files\Desktop\Work\Intel\AOAA_1P0\UI Components\UI.Controls\obj\x64\Release\UI.Controls.Properties.Resources.resources
+I:\Mac Files\Desktop\Work\Intel\AOAA_1P0\UI Components\UI.Controls\obj\x64\Release\UI.Controls.csproj.GenerateResource.Cache
+I:\Mac Files\Desktop\Work\Intel\AOAA_1P0\UI Components\UI.Controls\obj\x64\Release\UI.Controls.dll
+I:\Mac Files\Desktop\Work\Intel\AOAA_1P0\UI Components\UI.Controls\obj\x64\Release\UI.Controls.pdb
+V:\Mac Files\Desktop\Work\Intel\AOAA_1P0\UI Components\UI.Controls\obj\x64\Release\UI.Controls.csprojResolveAssemblyReference.cache
+V:\Mac Files\Desktop\Work\Intel\AOAA_1P0\UI Components\UI.Controls\obj\x64\Release\TemplatesAndStyles\HyperlinkButtonStyle.baml
+V:\Mac Files\Desktop\Work\Intel\AOAA_1P0\UI Components\UI.Controls\obj\x64\Release\TemplatesAndStyles\MaxRestoreStyle.baml
+V:\Mac Files\Desktop\Work\Intel\AOAA_1P0\UI Components\UI.Controls\obj\x64\Release\TemplatesAndStyles\MetroButtonStyle.baml
+V:\Mac Files\Desktop\Work\Intel\AOAA_1P0\UI Components\UI.Controls\obj\x64\Release\TemplatesAndStyles\MetroComboBoxStyle.baml
+V:\Mac Files\Desktop\Work\Intel\AOAA_1P0\UI Components\UI.Controls\obj\x64\Release\TemplatesAndStyles\MetroScrollBarStyle.baml
+V:\Mac Files\Desktop\Work\Intel\AOAA_1P0\UI Components\UI.Controls\obj\x64\Release\TemplatesAndStyles\TemplatesAndStyles.baml
+V:\Mac Files\Desktop\Work\Intel\AOAA_1P0\UI Components\UI.Controls\obj\x64\Release\TemplatesAndStyles\MetroCheckBoxStyle.baml
+V:\Mac Files\Desktop\Work\Intel\AOAA_1P0\UI Components\UI.Controls\obj\x64\Release\Themes\Generic.baml
+V:\Mac Files\Desktop\Work\Intel\AOAA_1P0\UI Components\UI.Controls\obj\x64\Release\GeneratedInternalTypeHelper.g.cs
+V:\Mac Files\Desktop\Work\Intel\AOAA_1P0\UI Components\UI.Controls\obj\x64\Release\UI.Controls_MarkupCompile.cache
+V:\Mac Files\Desktop\Work\Intel\AOAA_1P0\UI Components\UI.Controls\obj\x64\Release\UI.Controls_MarkupCompile.lref
+V:\Mac Files\Desktop\Work\Intel\AOAA_1P0\UI Components\UI.Controls\obj\x64\Release\UI.Controls.dll
+V:\Mac Files\Desktop\Work\Intel\AOAA_1P0\UI Components\UI.Controls\obj\x64\Release\UI.Controls.pdb

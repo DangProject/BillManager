@@ -1,0 +1,20 @@
+﻿BillManager.Desktop
+
+
+winexe
+C#
+.cs
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\obj\Release\
+BillManager.Desktop
+none
+false
+TRACE
+C:\Users\Dang\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\BillManager\BillManager.Desktop\App.xaml
+11-641067375
+
+2757814757
+341448884441
+Resources\BillManagerStyles.xaml;Resources\DefaultStyles.xaml;Views\AddBillView.xaml;Views\AddBillWindow.xaml;Views\BillContentView.xaml;Views\BillListView.xaml;Views\BreadCrumbView.xaml;Views\LogonView.xaml;Views\MainShell.xaml;Views\ToolsView.xaml;Shell.xaml;
+
+True
+

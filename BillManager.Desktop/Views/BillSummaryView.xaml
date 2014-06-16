@@ -1,0 +1,75 @@
+﻿<UserControl x:Class="BillManager.Desktop.Views.BillSummaryView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:cor="clr-namespace:Core.UI;assembly=Core"
+             xmlns:local="clr-namespace:BillManager.Desktop"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             Background="{StaticResource DarkSlateBlue}"
+             mc:Ignorable="d" d:DesignHeight="350" d:DesignWidth="500">
+
+    <UserControl.Resources>
+        <Style TargetType="{x:Type TextBlock}">
+            <Setter Property="TextTrimming" Value="CharacterEllipsis" />
+            <Setter Property="VerticalAlignment" Value="Center" />
+            <Setter Property="HorizontalAlignment" Value="Left" />
+        </Style>
+
+        <cor:NullToVisibilityConverter x:Key="NullToVisibilityConverter" />
+    </UserControl.Resources>
+    
+    <Grid Margin="5,0,0,0" TextElement.Foreground="White">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Horizontal" TextElement.FontSize="20">
+            <TextBlock Margin="16,0,0,0" Text="{Binding Bill.Name}" />
+            <TextBlock Visibility="{Binding Bill.Category, Converter={StaticResource NullToVisibilityConverter}}" FontSize="12"
+                       Margin="0,5,0,0">
+                <Run Text=" - " /><Run Text="{Binding Bill.Category.Name, Converter={cor:DebugConverter}}" />
+            </TextBlock>            
+            <TextBlock Visibility="{Binding Bill.AccountNum, Converter={StaticResource NullToVisibilityConverter}}" FontSize="12"
+                       Margin="0,5,0,0">
+                <Run Text="  (" /><Run Text="{Binding Bill.AccountNum}" /><Run Text=")" />
+            </TextBlock>
+        </StackPanel>
+        <StackPanel Margin="10,0,0,10" Grid.Row="1" TextElement.FontSize="13">
+            <Grid>
+                <TextBlock Margin="6,8,4,4" >
+                    <Run Text="Billed" />
+                    <Run Text="{Binding Bill.BillFrequency}" />
+                </TextBlock>                
+            </Grid>
+            <Grid>
+                <TextBlock Margin="6,4,4,4" >
+                    <Run Text="Last payment" />
+                    <Run Text="($" Foreground="Orange" /><Run Text="{Binding Bill.LastPayment.Amount}" Foreground="Orange" /><Run Text=")" Foreground="Orange" />
+                    <Run Text="made on" />
+                    <Run Text="{Binding Bill.LastPayment.DatePaid, StringFormat='M/d'}" />
+                </TextBlock>
+            </Grid>
+            <Grid>
+                <TextBlock Margin="6,4,4,4" >
+                    <Run Text="Next bill" />
+                    <Run Text="{Binding Bill.DueDate, StringFormat='M/d'}" />
+                </TextBlock>
+            </Grid>
+            <Grid>
+                <TextBlock Margin="6,4,4,4" 
+                           Visibility="{Binding Bill.BillKind, Converter={local:BillKindToVisibilityConverter}}">
+                    <Run Text="Remaining balance" />
+                    <Run Text="{Binding Bill.RemainingBalance}" />
+                    <Run Text="($" FontSize="10" Foreground="Orange" /><Run Text="{Binding Bill.InitialBalance}" FontSize="10" Foreground="Orange" /><Run Text=")" FontSize="10" Foreground="Orange" />
+                </TextBlock>
+            </Grid>
+            <Grid>
+                <StackPanel>
+                    <TextBlock Margin="6,4,4,0" Text="Info:" />
+                    <TextBlock Margin="6,0,4,4" Foreground="Orange"
+                               Text="{Binding Bill.Description}" />
+                </StackPanel>
+            </Grid>
+        </StackPanel>
+    </Grid>
+</UserControl>

@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="BillManagerModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+  <EntityContainer Name="BillManagerModelContainer" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Accounts" EntityType="BillManagerModel.Account" />
+    <EntitySet Name="FavoriteLinks" EntityType="BillManagerModel.FavoriteLink" />
+    <EntitySet Name="Bills" EntityType="BillManagerModel.Bill" />
+    <EntitySet Name="Categories" EntityType="BillManagerModel.Category" />
+    <AssociationSet Name="BillCategory" Association="BillManagerModel.BillCategory">
+      <End Role="Bill" EntitySet="Bills" />
+      <End Role="Category" EntitySet="Categories" />
+    </AssociationSet>
+    <EntitySet Name="PayOptions" EntityType="BillManagerModel.PayOption" />
+    <AssociationSet Name="BillPayOption" Association="BillManagerModel.BillPayOption">
+      <End Role="Bill" EntitySet="Bills" />
+      <End Role="PayOption" EntitySet="PayOptions" />
+    </AssociationSet>
+    <EntitySet Name="Websites" EntityType="BillManagerModel.Website" />
+    <AssociationSet Name="FavoriteLinkWebsite" Association="BillManagerModel.FavoriteLinkWebsite">
+      <End Role="FavoriteLink" EntitySet="FavoriteLinks" />
+      <End Role="Website" EntitySet="Websites" />
+    </AssociationSet>
+    <AssociationSet Name="WebsitePayOption" Association="BillManagerModel.WebsitePayOption">
+      <End Role="Website" EntitySet="Websites" />
+      <End Role="PayOption" EntitySet="PayOptions" />
+    </AssociationSet>
+    <EntitySet Name="Payments" EntityType="BillManagerModel.Payment" />
+    <AssociationSet Name="BillPayment" Association="BillManagerModel.BillPayment">
+      <End Role="Bill" EntitySet="Bills" />
+      <End Role="Payment" EntitySet="Payments" />
+    </AssociationSet>
+    <AssociationSet Name="AccountWebsite" Association="BillManagerModel.AccountWebsite">
+      <End Role="Account" EntitySet="Accounts" />
+      <End Role="Website" EntitySet="Websites" />
+    </AssociationSet>
+    <AssociationSet Name="AccountBill" Association="BillManagerModel.AccountBill">
+      <End Role="Account" EntitySet="Accounts" />
+      <End Role="Bill" EntitySet="Bills" />
+    </AssociationSet>
+    <AssociationSet Name="AccountCategory" Association="BillManagerModel.AccountCategory">
+      <End Role="Account" EntitySet="Accounts" />
+      <End Role="Category" EntitySet="Categories" />
+    </AssociationSet>
+    <AssociationSet Name="AccountFavoriteLink" Association="BillManagerModel.AccountFavoriteLink">
+      <End Role="Account" EntitySet="Accounts" />
+      <End Role="FavoriteLink" EntitySet="FavoriteLinks" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Account">
+    <Key>
+      <PropertyRef Name="AccountId" />
+    </Key>
+    <Property Type="Int32" Name="AccountId" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="UserName" Nullable="false" MaxLength="20" />
+    <Property Type="String" Name="Password" Nullable="false" MaxLength="20" />
+    <Property Type="String" Name="FirstName" Nullable="false" MaxLength="20" />
+    <Property Type="String" Name="LastName" Nullable="false" MaxLength="20" />
+    <Property Type="String" Name="Email" Nullable="true" />
+    <NavigationProperty Name="FavoriteLinks" Relationship="BillManagerModel.AccountFavoriteLink" FromRole="Account" ToRole="FavoriteLink" />
+  </EntityType>
+  <EntityType Name="FavoriteLink">
+    <Key>
+      <PropertyRef Name="FavoriteLinkId" />
+    </Key>
+    <Property Type="Int32" Name="FavoriteLinkId" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="Label" Nullable="false" MaxLength="20" />
+    <NavigationProperty Name="Website" Relationship="BillManagerModel.FavoriteLinkWebsite" FromRole="FavoriteLink" ToRole="Website" />
+    <Property Type="Int32" Name="AccountId" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Bill">
+    <Key>
+      <PropertyRef Name="BillId" />
+    </Key>
+    <Property Type="Int32" Name="BillId" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="Name" Nullable="false" MaxLength="20" />
+    <Property Type="String" Name="Description" Nullable="true" />
+    <Property Type="DateTime" Name="CommenceDate" Nullable="true" />
+    <Property Type="Int32" Name="BillKind" Nullable="false" />
+    <Property Type="Boolean" Name="IsActive" Nullable="false" />
+    <Property Type="Int32" Name="BillFrequency" Nullable="false" />
+    <Property Type="DateTime" Name="DueDate" Nullable="true" />
+    <Property Type="Int32" Name="AutopayIsEnrolled" Nullable="true" />
+    <Property Type="String" Name="PhoneNum" Nullable="true" />
+    <Property Type="Decimal" Name="InitialBalance" Nullable="true" />
+    <NavigationProperty Name="Category" Relationship="BillManagerModel.BillCategory" FromRole="Bill" ToRole="Category" />
+    <NavigationProperty Name="PayOptions" Relationship="BillManagerModel.BillPayOption" FromRole="Bill" ToRole="PayOption" />
+    <Property Type="Int32" Name="AccountId" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Category">
+    <Key>
+      <PropertyRef Name="CategoryId" />
+    </Key>
+    <Property Type="Int32" Name="CategoryId" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="Name" Nullable="false" MaxLength="20" />
+    <NavigationProperty Name="Bills" Relationship="BillManagerModel.BillCategory" FromRole="Category" ToRole="Bill" />
+    <Property Type="Int32" Name="AccountId" Nullable="false" />
+  </EntityType>
+  <Association Name="BillCategory">
+    <End Type="BillManagerModel.Bill" Role="Bill" Multiplicity="*" />
+    <End Type="BillManagerModel.Category" Role="Category" Multiplicity="0..1" />
+  </Association>
+  <EntityType Name="PayOption">
+    <Key>
+      <PropertyRef Name="PayOptionId" />
+    </Key>
+    <Property Type="Int32" Name="PayOptionId" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="Label" Nullable="false" MaxLength="20" />
+    <Property Type="Boolean" Name="IsPrimary" Nullable="false" />
+    <Property Type="Int32" Name="BillId" Nullable="false" />
+    <NavigationProperty Name="Website" Relationship="BillManagerModel.WebsitePayOption" FromRole="PayOption" ToRole="Website" />
+  </EntityType>
+  <Association Name="BillPayOption">
+    <End Type="BillManagerModel.Bill" Role="Bill" Multiplicity="1" />
+    <End Type="BillManagerModel.PayOption" Role="PayOption" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Bill">
+        <PropertyRef Name="BillId" />
+      </Principal>
+      <Dependent Role="PayOption">
+        <PropertyRef Name="BillId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="Website">
+    <Key>
+      <PropertyRef Name="WebsiteId" />
+    </Key>
+    <Property Type="Int32" Name="WebsiteId" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="Name" Nullable="false" MaxLength="20" />
+    <Property Type="String" Name="Description" Nullable="true" />
+    <Property Type="String" Name="Url" Nullable="false" />
+    <Property Type="String" Name="UserName" Nullable="true" />
+    <Property Type="String" Name="Password" Nullable="true" />
+    <Property Type="Int32" Name="AccountId" Nullable="false" />
+  </EntityType>
+  <Association Name="FavoriteLinkWebsite">
+    <End Type="BillManagerModel.FavoriteLink" Role="FavoriteLink" Multiplicity="1" />
+    <End Type="BillManagerModel.Website" Role="Website" Multiplicity="1" />
+  </Association>
+  <Association Name="WebsitePayOption">
+    <End Type="BillManagerModel.Website" Role="Website" Multiplicity="1" />
+    <End Type="BillManagerModel.PayOption" Role="PayOption" Multiplicity="1" />
+  </Association>
+  <EntityType Name="Payment">
+    <Key>
+      <PropertyRef Name="PaymentId" />
+    </Key>
+    <Property Type="Int32" Name="PaymentId" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Decimal" Name="Amount" Nullable="false" />
+    <Property Type="DateTime" Name="DatePaid" Nullable="false" />
+    <Property Type="Boolean" Name="IsLate" Nullable="false" />
+    <Property Type="String" Name="Comment" Nullable="true" />
+    <Property Type="Int32" Name="BillId" Nullable="false" />
+  </EntityType>
+  <Association Name="BillPayment">
+    <End Type="BillManagerModel.Bill" Role="Bill" Multiplicity="1" />
+    <End Type="BillManagerModel.Payment" Role="Payment" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Bill">
+        <PropertyRef Name="BillId" />
+      </Principal>
+      <Dependent Role="Payment">
+        <PropertyRef Name="BillId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="AccountWebsite">
+    <End Type="BillManagerModel.Account" Role="Account" Multiplicity="1" />
+    <End Type="BillManagerModel.Website" Role="Website" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Account">
+        <PropertyRef Name="AccountId" />
+      </Principal>
+      <Dependent Role="Website">
+        <PropertyRef Name="AccountId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="AccountBill">
+    <End Type="BillManagerModel.Account" Role="Account" Multiplicity="1" />
+    <End Type="BillManagerModel.Bill" Role="Bill" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Account">
+        <PropertyRef Name="AccountId" />
+      </Principal>
+      <Dependent Role="Bill">
+        <PropertyRef Name="AccountId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="AccountCategory">
+    <End Type="BillManagerModel.Account" Role="Account" Multiplicity="1" />
+    <End Type="BillManagerModel.Category" Role="Category" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Account">
+        <PropertyRef Name="AccountId" />
+      </Principal>
+      <Dependent Role="Category">
+        <PropertyRef Name="AccountId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="AccountFavoriteLink">
+    <End Type="BillManagerModel.Account" Role="Account" Multiplicity="1" />
+    <End Type="BillManagerModel.FavoriteLink" Role="FavoriteLink" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Account">
+        <PropertyRef Name="AccountId" />
+      </Principal>
+      <Dependent Role="FavoriteLink">
+        <PropertyRef Name="AccountId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>
